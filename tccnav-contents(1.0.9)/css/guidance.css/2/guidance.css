@@ -1,0 +1,7 @@
+﻿body, #page {
+    background-color: #82b0e2;
+}
+.navtop, .navsearch, .navcontact, .navhelp, .navsolution{
+    overflow: visible;
+    white-space: normal;
+}

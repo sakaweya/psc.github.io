@@ -1,0 +1,59 @@
+﻿body, #page {
+    background-color: #82b0e2;
+}
+#H2_MENU_HEADER {
+    overflow: visible;
+    white-space: normal;
+    word-break:break-all;
+}
+/*
+    flipsnap
+*/
+.viewport {
+  width: 600px;     /* 自動化 */
+  height:300px;     /* 自動化 */
+  overflow: hidden;
+  margin: 0 auto;
+  -webkit-transform: translateZ(0); }
+
+.flipsnap {
+  width: 3565px;    /* 自動化 */
+  /* (item) * n  */
+}
+
+.flipsnap:after {
+  content: '';
+  display: block;
+  clear: both;
+  height: 0; }
+
+.viewport .flipsnap .item {
+  width: 600px;     /* 自動化 */
+  height:300px;     /* 自動化 */
+  padding: 0 10px;
+  text-align: center;
+  float: left;
+}
+.pointer {
+  text-align: center; 
+}
+
+.pointer span {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 8px;
+  background: #808080; 
+  border: 1px solid #808080;
+}
+
+.pointer span.current {
+  background: #ffffff; 
+  border: 1px solid #ffffff;
+}
+/*
+    photswipe
+*/
+figcaption{
+    display:none;
+}

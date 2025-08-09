@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="css/tccnav-theme.min.css" />
+    <link rel="stylesheet" href="css/jquery.mobile.icons-1.4.5.min.css" />
+    <link rel="stylesheet" href="css/jquery.mobile.structure-1.4.5.min.css" />
+    <link rel="stylesheet" href="css/tccnav-common.css" />
+    <link rel="stylesheet" href="css/guidance.css" />
+    <script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/jquery.fittext-1.2.js"></script>
+    <script src="js/tccnav-theme.js"></script>
+    <script src="js/jquery.mobile-1.4.5.min.js"></script>
+    <script src="js/linq.min.js"></script>
+    <script src="js/tccnav-common.js"></script>
+    <script src="js/guidance.js"></script>
+    <title></title>
+</head>
+<body>
+    <div data-role="page" id="page">
+        <div role="main">
+            <div id="div_main" class="ui-content" data-theme="c" style="text-align:center; padding:2em 5em 0em 5em; display:none;">
+                <div id="div_title" class="ui-content" data-theme="c" style="background-color:#0B4EA2; color:white;">
+                    <h1>太平洋ナビ</h1>
+                    <p>太平洋セメントグループ商材/工法ラインアップ</p>
+                </div>
+                <br />
+                <p style="color:#0B4EA2"><strong>＜太平洋ナビアプリの利用方法＞</strong></p>
+                <p>目的の商材/工法をイラストまたはキーワード検索から検索することができます。</p>
+                <div id="div_main_menu_port" style="display:none;">
+                    <div class="ui-grid-c">
+                        <div class="ui-block-a">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-home navtop">イラスト<br />から商材/工法を検索する。</a>
+                        </div>
+                        <div class="ui-block-b">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-search navsearch">キーワード<br />から商材/工法を検索する。</a>
+                        </div>
+                        <div class="ui-block-c">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-phone navcontact">問い合わせ先<br />を検索する。</a>
+                        </div>
+                        <div class="ui-block-d">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-action navsolution">ソリューション<br />を検索する。</a>
+                        </div>
+                    </div>
+                    <p>本アプリに掲載されている商材/工法は2017年3月現在のものです。</p>
+                    <p>改良などにより予告なく変更することがあります。あらかじめご了承ください。</p>
+                </div>
+                <div id="div_main_menu_land" style="display:none;">
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-home navtop">イラスト<br />から商材/工法を検索する。</a>
+                        </div>
+                        <div class="ui-block-b">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-search navsearch">キーワード<br />から商材/工法を検索する。</a>
+                        </div>
+                    </div>
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-phone navcontact">問い合わせ先<br />を検索する。</a>
+                        </div>
+                        <div class="ui-block-b">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-action navsolution">ソリューション<br />を検索する。</a>
+                        </div>
+                    </div>
+                    <div style="text-align:left; padding:1em 1em 1em 1em; font-size:.8em">
+                        <p style="margin:0.2em">本アプリに掲載されている商材/工法は2017年3月現在のものです。</p>
+                        <p style="margin:0.2em">改良などにより予告なく変更することがあります。あらかじめご了承ください。</p>
+                    </div>
+                </div>
+            </div>
+            <div id="div_mobile" style="display:none">
+                <div id="div_title" class="ui-content" data-theme="c" style="background-color:#0B4EA2; color:white;">
+                    <h1 style="margin:0px">太平洋ナビ</h1>
+                    <p style="margin:0px;font-size:0.8em;">太平洋セメントグループ商材/工法ラインアップ</p>
+                </div>
+                <div style="padding:1em 1em 1em 1em;">
+                    <p style="margin:0px; color:#0B4EA2"><strong>＜太平洋ナビアプリの利用方法＞</strong></p>
+                    <p style="margin:0px; font-size:.8em">目的の商材/工法をメニューリストまたはキーワード検索から検索することができます。</p>
+                </div>
+                <div id="div_mobile_menu">
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-home navtop">メニューリスト<br />から商材/工法を検索する。</a>
+                        </div>
+                        <div class="ui-block-b">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-search navsearch">キーワード<br />から商材/工法を検索する。</a>
+                        </div>
+                    </div>
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-phone navcontact">問い合わせ先<br />を検索する。</a>
+                        </div>
+                        <div class="ui-block-b">
+                            <a href="#" class="ui-btn load-link ui-btn-icon-top ui-icon-action navsolution">ソリューション<br />を検索する。</a>
+                        </div>
+                    </div>
+                    <div style="padding:1em 1em 1em 1em; font-size:.8em">
+                        <p style="margin:0.2em">本アプリに掲載されている商材/工法は2017年3月現在のものです。</p>
+                        <p style="margin:0.2em">改良などにより予告なく変更することがあります。あらかじめご了承ください。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="pscnav.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+</body>
+</html>

@@ -1,0 +1,6265 @@
+[{
+ "PRODUCT_ID": 271,
+ "CATEGORY_ID": 131,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高い流動性と不分離性をもちあわせ、今までにない水平性を実現するレべリング材です。良好な作業性も実現します。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の土木･建築工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 3,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般廃棄物を清掃工場で焼却した際に発生する焼却灰や汚泥等の各種廃棄物を主原料としたセメントです。普通ポルトランドセメントと同様の取り扱いが行え、幅広い用途に使用できます。"
+}, {
+ "PRODUCT_ID": 5,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "自己充填性に優れた早期交通開放型の現場打ち高流動コンクリートです。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 6,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。凝結遅延剤量を調節することで可使時間の調整が可能です。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 8,
+ "CATEGORY_ID": 5,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "1日で30N/mm<sup>2</sup>以上の圧縮強度を発現します。翌日の交通開放が可能です。"
+}, {
+ "PRODUCT_ID": 9,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れた超速硬無収縮グラウト材です。目地・不陸調整に使用できます。ブリーディングなどの分離が生じず、短時間で高強度が得られます。"
+}, {
+ "PRODUCT_ID": 11,
+ "CATEGORY_ID": 215,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "半たわみ性舗装用のプレミックスセメント注入材です。硬化時間によって超速硬・早強・普通の３種類があり、さらに各種カラー品・高流動タイプも取り揃えています。舗装の流動わだちを防止します。"
+}, {
+ "PRODUCT_ID": 12,
+ "CATEGORY_ID": 8,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "透・排水性アスファルト、ポーラスコンクリート舗装に対応可能な保水性を有する充填材です。水の供給無しに路面温度低減効果が１週間以上持続できます。"
+}, {
+ "PRODUCT_ID": 13,
+ "CATEGORY_ID": 9,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートに添加して使用する速硬性混和材です。６～12時間で24N/mm<sup>2</sup>以上の圧縮強度が得られ、工期の短縮や緊急工事に適しています。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰石膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 16,
+ "CATEGORY_ID": 12,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "透水性舗装で規定される透水係数1.0×10<sup>-2</sup>cm/secの10倍以上ある高透水性舗装ブロックです。表面は小石を敷き詰めたような洗出し仕上げで、長期間にわたり透水機能が保たれます。"
+}, {
+ "PRODUCT_ID": 17,
+ "CATEGORY_ID": 13,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "雨が降っても水たまりができず、歩行中の水の跳ね返りも低減する透水性舗装ブロックです。透水性舗装で規定される透水係数1.0×10<sup>-2</sup>cm/sec以上を確保しています。車道用も用意しています。"
+}, {
+ "PRODUCT_ID": 18,
+ "CATEGORY_ID": 14,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "雨水をブロック内部に蓄え、水分蒸発時の気化熱による冷却効果から舗装面の温度上昇を抑える保水性舗装ブロックです。ヒートアイランド現象を緩和します。"
+}, {
+ "PRODUCT_ID": 19,
+ "CATEGORY_ID": 15,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "雨水を速やかにブロック内に保水する機能と、ブロックの保水能力が飽和状態に達すると透水して路盤に排水する機能とをバランス良く併せ持っています。気化熱による冷却効果が得られます。"
+}, {
+ "PRODUCT_ID": 20,
+ "CATEGORY_ID": 16,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水を通しにくい緻密な表面構造をもつブロックです。使われていくうち天然石の風合いが増し、重厚な存在感が醸し出されます。"
+}, {
+ "PRODUCT_ID": 21,
+ "CATEGORY_ID": 17,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "太陽光の赤外線を効率的に反射して、舗装面の温度を最大15℃も低下させる舗装ブロックです。夏場の日中における蓄熱が少ないため、夜間の気温降下を妨げず、ヒートアイランド現象を緩和します。"
+}, {
+ "PRODUCT_ID": 22,
+ "CATEGORY_ID": 18,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "色落ちしにくいカラーサンドを用い、天然石の風合いを表層にもつ舗装ブロックです。普通、透水、保水機能を備えた3タイプがあります。"
+}, {
+ "PRODUCT_ID": 23,
+ "CATEGORY_ID": 19,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "玉砂利や砕石を表層に使い、天然石が敷き詰められた表情をもつ洗出し仕上げの透水性舗装ブロックです。"
+}, {
+ "PRODUCT_ID": 24,
+ "CATEGORY_ID": 20,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "玉砂利や砕石を表層に使い、表面を研磨することにより高級感を演出する光沢仕上げの舗装ブロックです。透水あるいは保水機能を備えた2タイプがあります。"
+}, {
+ "PRODUCT_ID": 25,
+ "CATEGORY_ID": 21,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "独自の製法で色あせや視覚障害者誘導に欠かせない凸部の欠けが起こりにくいブロックです。発色が鮮やかなので高い輝度比が得られロービジョン者の視認性に優れています。"
+}, {
+ "PRODUCT_ID": 26,
+ "CATEGORY_ID": 22,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "車椅子やベビーカーに伝わる不快な振動を低減する舗装ブロックです。目地部の構造改良に加え、表面に設けたスリットが振動を軽減します。"
+}, {
+ "PRODUCT_ID": 27,
+ "CATEGORY_ID": 23,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "車椅子やベビーカーに伝わる不快な振動を低減する舗装ブロックです。目地幅を極力少なくし、目地部通過抵抗を大幅に低減したバリアフリー対応製品です。"
+}, {
+ "PRODUCT_ID": 28,
+ "CATEGORY_ID": 24,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ショットブラスト仕上げの柔らかい表情をもつ透水性舗装ブロックです。"
+}, {
+ "PRODUCT_ID": 29,
+ "CATEGORY_ID": 25,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "大判サイズの平板でも車の乗り入れが可能なバリアフリー対応のシステムです。強化板と細粒化防止対策を施した敷砂等を用いて、長期間安定した快適な平板舗装を実現します。"
+}, {
+ "PRODUCT_ID": 30,
+ "CATEGORY_ID": 26,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "輸入ワインびんのガラスカレットを骨材としてリサイクルした舗装ブロックです。資源の節約や最終処分場の延命、さらには子供達への環境教育に役立っている製品です。"
+}, {
+ "PRODUCT_ID": 31,
+ "CATEGORY_ID": 27,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "自然石をブロックと同じ形状に加工した製品です。インターロッキングブロックと同じ乾式工法で施工できるため、即時交通開放が可能なほか補修が容易に行えます。"
+}, {
+ "PRODUCT_ID": 32,
+ "CATEGORY_ID": 28,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "無機質な風合いの製品から、自然石を凌駕するような高級感をもった製品まで、多種類を取り揃えています。雨天時でも滑りにくく、歩行安全性が高い製品です。"
+}, {
+ "PRODUCT_ID": 33,
+ "CATEGORY_ID": 29,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "豊富なカラーバリエーションとデザインパターンが舗装面を鮮やかに彩り、景観デザイン性を高められる平板です。雨天時でも滑りにくい表面加工を施してあります。（関西・中部地区限定製品）"
+}, {
+ "PRODUCT_ID": 34,
+ "CATEGORY_ID": 30,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "絵文字などの視覚記号（サイン）やイラスト、写真などを印刷したタイルを貼り付けた舗装平板です。退色しにくい材料にすり減り防止加工を施してあるため、避難誘導表示や各種案内表示に最適です。"
+}, {
+ "PRODUCT_ID": 35,
+ "CATEGORY_ID": 31,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "遮熱性を付与した視覚障害者誘導用ブロックです。色あせや視覚障害者誘導に欠かせない凸部の欠けが起こりにくい製品です。"
+}, {
+ "PRODUCT_ID": 36,
+ "CATEGORY_ID": 32,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ソーラー式ユニットを視覚障害者誘導ブロックに組み込むことで、Ucordによる位置情報を発信します。視覚障害者への安全な道案内や外国人向けの道案内と観光情報等を提供できる舗装ブロックです。"
+}, {
+ "PRODUCT_ID": 37,
+ "CATEGORY_ID": 33,
+ "PURPOSE_ID": 2,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ガードレールなどを設置するためのプレキャスト基礎ブロックです。連続延長で衝突荷重を受け持ち、歩行者の安全を確保します。"
+}, {
+ "PRODUCT_ID": 38,
+ "CATEGORY_ID": 34,
+ "PURPOSE_ID": 2,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "歩道と緑地、ステップ等の区切りを表す縁石です。化粧仕上げ品もあります。"
+}, {
+ "PRODUCT_ID": 39,
+ "CATEGORY_ID": 34,
+ "PURPOSE_ID": 2,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "歩道と車道の境界に設置するブロックです。化粧仕上げ品もあります。"
+}, {
+ "PRODUCT_ID": 40,
+ "CATEGORY_ID": 34,
+ "PURPOSE_ID": 2,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "歩道と車道の境界の街渠部分に用いる路面排水路のプレキャストブロックです。"
+}, {
+ "PRODUCT_ID": 41,
+ "CATEGORY_ID": 35,
+ "PURPOSE_ID": 2,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "路面排水用側溝です。種類や用途により各種取り揃えています。"
+}, {
+ "PRODUCT_ID": 42,
+ "CATEGORY_ID": 36,
+ "PURPOSE_ID": 2,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "道路や広場等に自動車の進入を阻止するために設置するコンクリート製杭です。"
+}, {
+ "PRODUCT_ID": 43,
+ "CATEGORY_ID": 37,
+ "PURPOSE_ID": 2,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "植樹周りを構成するプレキャスト製品です。擬石仕上げのものとレンガ積みのものがあります。"
+}, {
+ "PRODUCT_ID": 44,
+ "CATEGORY_ID": 38,
+ "PURPOSE_ID": 2,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "電線・光ファイバー類を道路の地下空間に収容する構造をもつコンクリート製品です。"
+}, {
+ "PRODUCT_ID": 45,
+ "CATEGORY_ID": 39,
+ "PURPOSE_ID": 3,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水との反応による膨張圧を利用した低公害型の破砕剤です。破砕効率がよく、2次破砕作業に伴う振動・騒音が低減できます。道路新設・拡幅工事に伴う地山破砕工事などに適用できます。"
+}, {
+ "PRODUCT_ID": 46,
+ "CATEGORY_ID": 39,
+ "PURPOSE_ID": 3,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般的な静的破砕剤に比べ、より短時間でパワフルに破砕します。緊急工事・災害防除工事等に威力を発揮し、より効率的な破砕工事が可能です。"
+}, {
+ "PRODUCT_ID": 47,
+ "CATEGORY_ID": 40,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "頁岩を1,100℃で燃成・発泡させた人工軽量骨材です。湿潤単位体積重量が約11kN/m<sup>3</sup>と軽量ですが水に浮かばない適度な密度をもち、内部摩擦角として42度を設計に用いることができます。軟弱地盤などにおける盛土材、裏込め材等として適した材料です。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 49,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。狭隘な部分へのポンプ圧送による施工が可能で建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 5,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 5,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 5,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。機械基礎やマンホール蓋受部の施工に適しています。"
+}, {
+ "PRODUCT_ID": 54,
+ "CATEGORY_ID": 44,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "2時間で24N/mm<sup>2</sup>以上の圧縮強度を発現するプレミックスタイプの超速硬無収縮モルタルです。"
+}, {
+ "PRODUCT_ID": 55,
+ "CATEGORY_ID": 45,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "3時間で20N/mm<sup>2</sup>程度の圧縮強度を発現するプレミックスタイプの超速硬モルタルです。マンホール蓋受部の施工に適しています。"
+}, {
+ "PRODUCT_ID": 9,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れた超速硬無収縮グラウト材です。ブリーディングなどの分離を生じず、短時間で高強度が得られます。マンホール蓋受部の施工に適しています。"
+}, {
+ "PRODUCT_ID": 56,
+ "CATEGORY_ID": 46,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "集水ます、汚水ます、雨水ます、街渠ます等、各種取り揃えています。"
+}, {
+ "PRODUCT_ID": 57,
+ "CATEGORY_ID": 47,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "推進工事の発進・到達立坑兼用マンホールです。施工時の道路占有面積が小さく、騒音・振動がなく、静かで容易に施工ができます。"
+}, {
+ "PRODUCT_ID": 58,
+ "CATEGORY_ID": 48,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "推進工事の際、今までコンクリート打設によって築造されていた支圧壁をプレキャスト化したものです。廃棄物・騒音・振動を大幅に低減できます。"
+}, {
+ "PRODUCT_ID": 59,
+ "CATEGORY_ID": 49,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "既設・新設のマンホールに対応する耐震化対策工法です（液状化によるマンホール浮上抑制対策）。マンホールを加工することなく、経済的で確実に耐震化が図れます。"
+}, {
+ "PRODUCT_ID": 60,
+ "CATEGORY_ID": 50,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "フライアッシュを使用した自己充填性に優れたスラリー状の埋戻し材料です。二次覆工中込め、ガス導管空洞充填、軽量盛土、埋戻し等に用いられています。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 62,
+ "CATEGORY_ID": 52,
+ "PURPOSE_ID": 6,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水と混ぜるだけで容易に施工できるプレミックスタイプの裏込材です。高流動で充填性に優れています。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 64,
+ "CATEGORY_ID": 54,
+ "PURPOSE_ID": 8,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "アルカリシリカ反応性の評価やLECCAⅡなどを用いた塩化物イオンの拡散係数や炭酸化の進行予測により、構造物の耐久性設計を行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 66,
+ "CATEGORY_ID": 56,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント系または石灰系の固化材を散布の後、施工機により攪拌・混合し、整正・転圧により地盤表層を締め固めて固化します。道路路床改良などの支持力増加に多く使用されています。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度13ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大径撹拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。"
+}, {
+ "PRODUCT_ID": 68,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "単管ロッドの先端から水平方向に超高圧固化材スラリーを噴射・回転させることにより改良体を造成する工法です。小型ボーリングマシンによる施工が可能で、狭所や橋桁下の空頭制限下における施工に優れています。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。機械が比較的小型のため簡易な仮設で、河川内での台船施工も可能です。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 71,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊撹拌翼から固化材スラリーを圧縮空気と連行させ超高圧で噴射させることにより、大口径改良体を短時間に造成でき、工期短縮とコスト低減が図れます。軽量小型機械で機動性に富み地盤変位も抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）\r\n"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。周辺構造物や埋設物などの近接施工に適しています。"
+}, {
+ "PRODUCT_ID": 74,
+ "CATEGORY_ID": 59,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "泥水にセメント系固化材を混練し、用途に応じた設計と厳密な品質管理により製造するリサイクル100％の流動化処理土です。"
+}, {
+ "PRODUCT_ID": 75,
+ "CATEGORY_ID": 60,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建設発生土、泥土等と固化材および水を混合し、締固めを伴わない埋戻し土として利用する工法です。狭隘な部分へのポンプ圧送による施工が可能で発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 76,
+ "CATEGORY_ID": 61,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル工法で、流動性がよく狭小部への充填性に優れています。空洞・廃止管充填、トンネル・二次覆工シールド中込め等に適しています。"
+}, {
+ "PRODUCT_ID": 77,
+ "CATEGORY_ID": 62,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "超微粒子セメントと無機硬化促進材を組み合わせた地盤注入材です。ゲルタイムは数秒から10分程度まで調整可能です。浸透性に優れ、水ガラス系注入材に比べ高い耐久性を有する2液型注入材です。"
+}, {
+ "PRODUCT_ID": 78,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "酸化マグネシウムを主材とした無機系粉体材料で、汚染土壌に添加・混合することで汚染物質を不溶化する材料です。土壌汚染対策法に規定される第二種特定有害物質（重金属など）全般に有効で、鉛、ヒ素、フッ素等に特に有効に作用します。"
+}, {
+ "PRODUCT_ID": 79,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "汚染土壌の不溶化効果に改質効果を付与するとともに、中性領域（pH=5.8～8.6）でも不溶化が可能です。自然由来のヒ素やフッ素に対して顕著な効果を示す中性改質不溶化材です。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の土木･建築工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 80,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "初期強度発現性に優れるエーライト（C<sub>3</sub>S）の比率を増加させるとともに、粉末度を高めることにより強度発現を早めています。初期強度発現が大きいことから養生期間を短縮できます。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 81,
+ "CATEGORY_ID": 65,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低発熱系セメントの製造技術、シリカフュームの利用技術、粉体の混合技術を融合・最適化することにより開発されたプレミックスタイプのセメントです。設計基準強度=80～120N/mm<sup>2</sup>、さらにそれを上回る超高強度コンクリートの製造が可能です。"
+}, {
+ "PRODUCT_ID": 82,
+ "CATEGORY_ID": 66,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート１種・２種用の人工軽量骨材であり、普通コンクリートに対して２５％程度の構造物の死荷重の低減を図ることができます。近年、乾燥収縮量が普通コンクリートより低減することや、自己養生効果が大きいことも長所として報告されています。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 83,
+ "CATEGORY_ID": 67,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "外装用高強度フレキシブルボードです。耐衝撃性・耐候性にも優れ、経年の品質劣化が極めて少なく、外壁、防音壁等あらゆる建物の壁材として使うことができます。"
+}, {
+ "PRODUCT_ID": 84,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 13,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊繊維を混入し、じん性が高く衝撃などの耐久性を大幅に向上させたひび割れ防止型の超速硬無収縮グラウト材です。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 13,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 14,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 86,
+ "CATEGORY_ID": 21,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "独自の製法で色あせや視覚障害者誘導に必要不可欠な凸部の欠けが起こりにくいブロックです。発色が鮮やかなので、高い輝度比が得られ、ロービジョン者の視認性に優れています。"
+}, {
+ "PRODUCT_ID": 36,
+ "CATEGORY_ID": 32,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ソーラー式ユニットを視覚障害者誘導ブロックに組み込むことで、Ucordによる位置情報を発信します。視覚障害者への安全な道案内や外国人向けの道案内と観光情報等を提供できる舗装ブロックです。"
+}, {
+ "PRODUCT_ID": 87,
+ "CATEGORY_ID": 69,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "超高強度繊維補強コンクリート製のホーム縁端ブロックです。ブロックを着色し、滑止加工・点字ブロック・排水溝等を一体化させて、視覚障害者の歩行性やロービジョン者の視認性を高めました。"
+}, {
+ "PRODUCT_ID": 88,
+ "CATEGORY_ID": 70,
+ "PURPOSE_ID": 16,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "歩行者の安全性確保はもちろんのこと、優れた耐候性と高い強度を併せもつ階段ブロックです。豊富なバリエーションとデザインから屋内・外を問わず選択できます。"
+}, {
+ "PRODUCT_ID": 89,
+ "CATEGORY_ID": 71,
+ "PURPOSE_ID": 17,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高出力ロータリーパーカッションドリルを用いて削孔、盛土内に中径棒状補強体（標準径170ｍｍ）を築造し、切土斜面を補強する工法です。砂礫層・玉石を含む土層や障害物のある地盤に適しています。"
+}, {
+ "PRODUCT_ID": 90,
+ "CATEGORY_ID": 72,
+ "PURPOSE_ID": 17,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "大きなアンカー径と短いアンカー長（径400ｍｍ、最大長8ｍ）を構築し、地盤を強化・補強する工法です。共廻り防止翼により高い撹拌混合品質と、芯材にＦＲＰロッドを使用し高い耐腐食性があります。"
+}, {
+ "PRODUCT_ID": 60,
+ "CATEGORY_ID": 50,
+ "PURPOSE_ID": 18,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "フライアッシュを使用した自己充填性に優れたスラリー状の埋戻し材料です。二次覆工中込め、ガス導管空洞充填、軽量盛土、埋戻し等に用いられています。"
+}, {
+ "PRODUCT_ID": 91,
+ "CATEGORY_ID": 73,
+ "PURPOSE_ID": 19,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "落石の運動エネルギーを大きな変形性によって吸収する可撓性の防護柵です。リング状の特殊金網のため斜面において目立たず、自然景観に対応したデザインで、短期間での設置が可能です。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 64,
+ "CATEGORY_ID": 54,
+ "PURPOSE_ID": 8,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "アルカリシリカ反応性の評価やLECCAⅡなどを用いた塩化物イオンの拡散係数や炭酸化の進行予測により、構造物の耐久性設計を行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 6,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 20,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。凝結遅延剤量を調節することで可使時間の調整が可能です。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 47,
+ "CATEGORY_ID": 40,
+ "PURPOSE_ID": 20,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "頁岩を1,100℃で燃成・発泡させた人工軽量骨材です。湿潤単位体積重量が約11kN/m<sup>3</sup>と軽量ですが水に浮かばない適度な密度をもち、内部摩擦角として42度を設計に用いることができます。軟弱地盤などにおける盛土材、裏込め材等として適した材料です。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 20,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 75,
+ "CATEGORY_ID": 59,
+ "PURPOSE_ID": 20,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建設発生土、泥土等と固化材および水を混合し、締固めを伴わない埋戻し土として利用する工法です。狭隘な部分へのポンプ圧送による施工が可能で発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 49,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 20,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。狭隘な部分へのポンプ圧送による施工が可能で建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 74,
+ "CATEGORY_ID": 59,
+ "PURPOSE_ID": 20,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "泥水にセメント系固化材を混練し、用途に応じた設計と厳密な品質管理により製造するリサイクル100％の流動化処理土です。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度13ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大径攪拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。"
+}, {
+ "PRODUCT_ID": 68,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "単管ロッドの先端から水平方向に超高圧固化材スラリーを噴射・回転させることにより改良体を造成する工法です。小型ボーリングマシンによる施工が可能で、狭所や橋桁下の空頭制限下における施工に優れています。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。機械が比較的小型のため簡易な仮設で施工が可能です。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 71,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊撹拌翼から固化材スラリーを圧縮空気と連行させ超高圧で噴射させることにより、大口径改良体を短時間に造成でき、工期短縮とコスト低減が図れます。軽量小型機械で機動性に富み地盤変位も抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。周辺構造物や軌道等の近接施工に適しています。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 74,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 78,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "酸化マグネシウムを主材とした無機系粉体材料で、汚染土壌に添加・混合することで汚染物質を不溶化する材料です。土壌汚染対策法に規定される第二種特定有害物質（重金属など）全般に有効で、鉛、ヒ素、フッ素等に特に有効に作用します。"
+}, {
+ "PRODUCT_ID": 79,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "汚染土壌の不溶化効果に改質効果を付与するとともに、中性領域（pH=5.8～8.6）でも不溶化が可能です。自然由来のヒ素やフッ素に対して顕著な効果を示す中性改質不溶化材です。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の土木･建築工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 9,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れた超速硬無収縮グラウト材です。ブリーディングなどの分離を生じず、短時間で高強度が得られます。"
+}, {
+ "PRODUCT_ID": 11,
+ "CATEGORY_ID": 215,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "半たわみ性舗装用のプレミックスセメント注入材です。硬化時間によって超速硬・早強・普通の３種類があり、さらに各種カラー品・高流動タイプも取り揃えています。舗装の流動わだちを防止します。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰石膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 21,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 82,
+ "CATEGORY_ID": 66,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート１種・２種用の人工軽量骨材であり、普通コンクリートに対して２５％程度の構造物の死荷重の低減を図ることができます。近年、乾燥収縮量が普通コンクリートより低減することや、自己養生効果が大きいことも長所として報告されています。"
+}, {
+ "PRODUCT_ID": 95,
+ "CATEGORY_ID": 76,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊硬質骨材を配合した耐摩耗床材です。格納庫や倉庫等、耐久性が求められる場所に適しています。"
+}, {
+ "PRODUCT_ID": 96,
+ "CATEGORY_ID": 77,
+ "PURPOSE_ID": 22,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "超高強度繊維補強コンクリート（UFC）の「ダクタル」を使用した高性能床版です。中性化、塩害、凍害および磨耗等の経年劣化に対し極めて高い耐久性を有しています。桟橋構造の床版に適しています。"
+}, {
+ "PRODUCT_ID": 97,
+ "CATEGORY_ID": 78,
+ "PURPOSE_ID": 23,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "埋立工事に大量に必要となる高品質の土砂を安定供給します。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 47,
+ "CATEGORY_ID": 40,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "頁岩を1,100℃で燃成・発泡させた人工軽量骨材です。湿潤単位体積重量が約11kN/m<sup>3</sup>と軽量ですが水に浮かばない適度な密度をもち、内部摩擦角として42度を設計に用いることができます。軟弱地盤などにおける盛土材、裏込め材等として適した材料です。"
+}, {
+ "PRODUCT_ID": 98,
+ "CATEGORY_ID": 79,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "浚渫土や建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。ポンプ圧送による施工が可能で大容量の施工に適しています。浚渫土や建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 66,
+ "CATEGORY_ID": 56,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント系または石灰系の固化材を散布の後、施工機により攪拌・混合し、整正・転圧により地盤表層を締め固めて固化します。道路路床改良などの支持力増加に多く使用されています。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度13ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大径攪拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。"
+}, {
+ "PRODUCT_ID": 68,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "単管ロッドの先端から水平方向に超高圧固化材スラリーを噴射・回転させることにより改良体を造成する工法です。小型ボーリングマシンによる施工が可能で、狭所や橋桁下の空頭制限下における施工に優れています。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。機械が比較的小型のため簡易な仮設で施工が可能です。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 71,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊撹拌翼から固化材スラリーを圧縮空気と連行させ超高圧で噴射させることにより、大口径改良体を短時間に造成でき、工期短縮とコスト低減が図れます。軽量小型機械で機動性に富み地盤変位も抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。周辺構造物や埋設物などの近接施工に適しています。"
+}, {
+ "PRODUCT_ID": 99,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌翼により土と固化材スラリーを強制的に攪拌混合し改良体を造成する工法です。品質管理システムにより信頼性の高い施工が可能です。"
+}, {
+ "PRODUCT_ID": 100,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "攪拌翼上部に取り付けたオーガスクリューを用い、改良時に攪拌翼体積および改良材吐出量に相当する量の排土を行うことで、周辺地盤変位を抑制することが可能な工法です。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 74,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 78,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "酸化マグネシウムを主材とした無機系粉体材料で、汚染土壌に添加・混合することで汚染物質を不溶化する材料です。土壌汚染対策法に規定される第二種特定有害物質（重金属など）全般に有効で、鉛、ヒ素、フッ素等に特に有効に作用します。"
+}, {
+ "PRODUCT_ID": 79,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "汚染土壌の不溶化効果に改質効果を付与するとともに、中性領域（pH=5.8～8.6）でも不溶化が可能です。自然由来のヒ素やフッ素に対して顕著な効果を示す中性改質不溶化材です。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の土木･建築工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 82,
+ "CATEGORY_ID": 66,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート１種・２種用の人工軽量骨材であり、普通コンクリートに対して２５％程度の構造物の死荷重の低減を図ることができます。近年、乾燥収縮量が普通コンクリートより低減することや、自己養生効果が大きいことも長所として報告されています。"
+}, {
+ "PRODUCT_ID": 101,
+ "CATEGORY_ID": 80,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "重量骨材を使用することにより密度2.5～3.6t/m<sup>3</sup>（3普通コンクリートの1.1～1.6倍の重さ）のコンクリートが製造可能です。波力に対する抵抗力を高めることができます。"
+}, {
+ "PRODUCT_ID": 103,
+ "CATEGORY_ID": 81,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水中へコンクリートを直接打設する場合に、コンクリートの粘性を高め材料分離を抑えることができる水中不分離性混和剤です。"
+}, {
+ "PRODUCT_ID": 104,
+ "CATEGORY_ID": 81,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れた水中不分離型のセメント系無収縮モルタルです。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 105,
+ "CATEGORY_ID": 82,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート表面に塗布することによって、コンクリート内部の水分逸散を抑制するとともに、外部からの塩化物や炭酸ガスなど劣化因子の侵入を抑制することができる耐久性向上を目的とした養生剤です。"
+}, {
+ "PRODUCT_ID": 101,
+ "CATEGORY_ID": 83,
+ "PURPOSE_ID": 24,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケーソンの中詰材に使用することで、護岸構造物の安定性が増します。また船舶の固定バラストなどにも多く活用されています。"
+}, {
+ "PRODUCT_ID": 106,
+ "CATEGORY_ID": 84,
+ "PURPOSE_ID": 25,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "面構造の大型組立て漁礁です。広範囲の深度に対応する製品があり、あらゆる水産基盤整備事業に活用が可能です。"
+}, {
+ "PRODUCT_ID": 107,
+ "CATEGORY_ID": 85,
+ "PURPOSE_ID": 26,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "平積みから乱積みにいたる様々な水産環境整備に適応するコンクリート製一体礁です。機能部材の付加を通じた増殖効果の拡大も容易です。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 64,
+ "CATEGORY_ID": 54,
+ "PURPOSE_ID": 8,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "アルカリシリカ反応性の評価やLECCAⅡなどを用いた塩化物イオンの拡散係数や炭酸化の進行予測により、構造物の耐久性設計を行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 47,
+ "CATEGORY_ID": 40,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "頁岩を1,100℃で燃成・発泡させた人工軽量骨材です。湿潤単位体積重量が約11kN/m<sup>3</sup>と軽量ですが水に浮かばない適度な密度をもち、内部摩擦角として42度を設計に用いることができます。軟弱地盤などにおける盛土材、裏込め材等として適した材料です。"
+}, {
+ "PRODUCT_ID": 98,
+ "CATEGORY_ID": 79,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "浚渫土や建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。ポンプ圧送による施工が可能で大容量の施工に適しています。浚渫土や建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 66,
+ "CATEGORY_ID": 56,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント系または石灰系の固化材を散布の後、施工機により攪拌・混合し、整正・転圧により地盤表層を締め固めて固化します。道路路床改良などの支持力増加に多く使用されています。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度13ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大径攪拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。"
+}, {
+ "PRODUCT_ID": 68,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "単管ロッドの先端から水平方向に超高圧固化材スラリーを噴射・回転させることにより改良体を造成する工法です。小型ボーリングマシンによる施工が可能で、狭所や橋桁下の空頭制限下における施工に優れています。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。機械が比較的小型のため簡易な仮設で、河川や港湾内での台船施工も可能です。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 71,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊撹拌翼から固化材スラリーを圧縮空気と連行させ超高圧で噴射させることにより、大口径改良体を短時間に造成でき、工期短縮とコスト低減が図れます。軽量小型機械で機動性に富み地盤変位も抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。周辺構造物や埋設物などの近接施工に適しています。"
+}, {
+ "PRODUCT_ID": 99,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌翼により土と固化材スラリーを強制的に攪拌混合し改良体を造成する工法です。品質管理システムにより信頼性の高い施工が可能です。"
+}, {
+ "PRODUCT_ID": 108,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "河口、河川、内水面等において、台船にCDM陸上施工機を搭載して、潮位管理機能付き施工管理システムにより地盤改良を行う工法です。"
+}, {
+ "PRODUCT_ID": 100,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "攪拌翼上部に取り付けたオーガスクリューを用い、改良時に攪拌翼体積および改良材吐出量に相当する量の排土を行うことで、周辺地盤変位を抑制することが可能な工法です。"
+}, {
+ "PRODUCT_ID": 109,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "河川域や河口海域において、護岸の耐震補強などに利用される台船式大口径深層混合処理工法です。既設護岸との密着施工や改良体相互のラップ施工が可能で、変位を抑制する機能が付加されています。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 74,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 78,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "酸化マグネシウムを主材とした無機系粉体材料で、汚染土壌に添加・混合することで汚染物質を不溶化する材料です。土壌汚染対策法に規定される第二種特定有害物質（重金属など）全般に有効で、鉛、ヒ素、フッ素等に特に有効に作用します。"
+}, {
+ "PRODUCT_ID": 79,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "汚染土壌の不溶化効果に改質効果を付与するとともに、中性領域（pH=5.8～8.6）でも不溶化が可能です。自然由来のヒ素やフッ素に対して顕著な効果を示す中性改質不溶化材です。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 110,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "中庸熱ポルトランドセメントにフライアッシュを混合したセメントです。中庸熱ポルトランドセメントよりさらに水和熱を抑制できるため、主にダム用セメントとして使用されています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 111,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメントの水和熱が低いためコンクリートの断熱温度上昇を低く抑えることができます。また自己収縮も小さいため、ひび割れの抑制にも効果が期待できます。"
+}, {
+ "PRODUCT_ID": 112,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "火力発電所から回収されたフライアッシュを混合したセメントです。ワーカビリティーが改善され、緻密な硬化体組織が形成されます。水和発熱量が小さくマスコンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 113,
+ "CATEGORY_ID": 86,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "超高強度繊維補強コンクリート（UFC）である「ダクタル」を使用した高耐久性埋設型枠です。中性化、塩害、凍害および磨耗等の経年劣化に対し極めて高い特性を有しています。"
+}, {
+ "PRODUCT_ID": 114,
+ "CATEGORY_ID": 87,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートの保湿性・保水性を高めることにより、コンクリートの打込み直後、または脱枠直後から始まる急激な水分の逸散を防ぎ、初期ひび割れを抑制します。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 115,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 28,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ASTEA MACSを用いた三次元FEM温度応力解析により、設計段階でひび割れ発生確率や予想ひび割れ幅を推定し、ひび割れ低減対策を立てることができます。（ASTEA MACS：マスコンクリートの非線形温度応力解析プログラム）"
+}, {
+ "PRODUCT_ID": 116,
+ "CATEGORY_ID": 88,
+ "PURPOSE_ID": 29,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらゆる土壌の植物育成基盤の安定性に優れる無機系緑化吹付安定材です。接合性が高いため、風化・浸食に対し強い抵抗性をもっています。有機系の場合に使用するラス金網は不要です。"
+}, {
+ "PRODUCT_ID": 117,
+ "CATEGORY_ID": 62,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "平均粒径4μm、ブレーン9,000cm<sup>2</sup>/g以上の超微粒子セメントで、地盤への浸透性に極めて優れています。"
+}, {
+ "PRODUCT_ID": 45,
+ "CATEGORY_ID": 39,
+ "PURPOSE_ID": 3,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "岩石や鉄筋コンクリートにあらかじめ孔をあけ、水で練り混ぜた後、充填するだけで、静かに計画的に亀裂を発生させ破砕できます。破砕作業に伴う危険性、振動、騒音、粉じん等の公害問題が発生しません。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 78,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "酸化マグネシウムを主材とした無機系粉体材料で、汚染土壌に添加・混合することで汚染物質を不溶化する材料です。土壌汚染対策法に規定される第二種特定有害物質（重金属など）全般に有効で、鉛、ヒ素、フッ素等に特に有効に作用します。"
+}, {
+ "PRODUCT_ID": 79,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "汚染土壌の不溶化効果に改質効果を付与するとともに、中性領域（pH=5.8～8.6）でも不溶化が可能です。自然由来のヒ素やフッ素に対して顕著な効果を示す中性改質不溶化材です。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の土木･建築工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 111,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメントの水和熱が低いためコンクリートの断熱温度上昇を低く抑えることができます。また自己収縮も小さいため、ひび割れの抑制にも効果が期待できます。"
+}, {
+ "PRODUCT_ID": 82,
+ "CATEGORY_ID": 66,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート１種・２種用の人工軽量骨材であり、普通コンクリートに対して２５％程度の構造物の死荷重の低減を図ることができます。近年、乾燥収縮量が普通コンクリートより低減することや、自己養生効果が大きいことも長所として報告されています。"
+}, {
+ "PRODUCT_ID": 103,
+ "CATEGORY_ID": 81,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水中へコンクリートを直接打設する場合に、コンクリートの粘性を高め材料分離を抑えることができる水中不分離性混和剤です。"
+}, {
+ "PRODUCT_ID": 104,
+ "CATEGORY_ID": 81,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れた水中不分離型のセメント系無収縮モルタルです。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 115,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 28,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ASTEA MACSを用いた三次元FEM温度応力解析により、設計段階でひび割れ発生確率や予想ひび割れ幅を推定し、ひび割れ低減対策を立てることができます。（ASTEA MACS：マスコンクリートの非線形温度応力解析プログラム）"
+}, {
+ "PRODUCT_ID": 116,
+ "CATEGORY_ID": 88,
+ "PURPOSE_ID": 29,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらゆる土壌の植物育成基盤の安定性に優れる無機系緑化吹付安定材です。接合性が高いため、風化・浸食に対して強い抵抗性をもっています。有機系の場合に使用するラス金網は不要です。"
+}, {
+ "PRODUCT_ID": 47,
+ "CATEGORY_ID": 40,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "頁岩を1,100℃で燃成・発泡させた人工軽量骨材です。湿潤単位体積重量が約11kN/m<sup>3</sup>と軽量ですが水に浮かばない適度な密度をもち、内部摩擦角として42度を設計に用いることができます。軟弱地盤などにおける盛土材、裏込め材等として適した材料です。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 49,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。狭隘な部分へのポンプ圧送による施工が可能で建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度13ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大径攪拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。"
+}, {
+ "PRODUCT_ID": 68,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "単管ロッドの先端から水平方向に超高圧固化材スラリーを噴射・回転させることにより改良体を造成する工法です。小型ボーリングマシンによる施工が可能で、狭所や橋桁下の空頭制限下における施工に優れています。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。機械が比較的小型のため簡易な仮設で、河川内での台船施工も可能です。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 71,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊撹拌翼から固化材スラリーを圧縮空気と連行させ超高圧で噴射させることにより、大口径改良体を短時間に造成でき、工期短縮とコスト低減が図れます。軽量小型機械で機動性に富み地盤変位も抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。周辺構造物や埋設物などの近接施工に適しています。"
+}, {
+ "PRODUCT_ID": 99,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌翼により土と固化材スラリーを強制的に攪拌混合し改良体を造成する工法です。品質管理システムにより信頼性の高い施工が可能です。"
+}, {
+ "PRODUCT_ID": 108,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "河口、河川、内水面等において、台船にCDM陸上施工機を搭載して、潮位管理機能付き施工管理システムにより地盤改良を行う工法です。"
+}, {
+ "PRODUCT_ID": 100,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "攪拌翼上部に取り付けたオーガスクリューを用い、改良時に攪拌翼体積および改良材吐出量に相当する量の排土を行うことで、周辺地盤変位を抑制することが可能な工法です。"
+}, {
+ "PRODUCT_ID": 109,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "河川域や河口海域において、護岸の耐震補強などに利用される台船式大口径深層混合処理工法です。既設護岸との密着施工や改良体相互のラップ施工が可能で、変位を抑制する機能が付加されています。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 74,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 78,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "酸化マグネシウムを主材とした無機系粉体材料で、汚染土壌に添加・混合することで汚染物質を不溶化する材料です。土壌汚染対策法に規定される第二種特定有害物質（重金属など）全般に有効で、鉛、ヒ素、フッ素等に特に有効に作用します。"
+}, {
+ "PRODUCT_ID": 79,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "汚染土壌の不溶化効果に改質効果を付与するとともに、中性領域（pH=5.8～8.6）でも不溶化が可能です。自然由来のヒ素やフッ素に対して顕著な効果を示す中性改質不溶化材です。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の土木･建築工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 80,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "初期強度発現性に優れるエーライト（C<sub>3</sub>S）の比率を増加させるとともに、粉末度を高めることにより強度発現を早めています。初期強度発現が大きいことから養生期間を短縮できます。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 111,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメントの水和熱が低いためコンクリートの断熱温度上昇を低く抑えることができます。また自己収縮も小さいため、ひび割れの抑制にも効果が期待できます。"
+}, {
+ "PRODUCT_ID": 81,
+ "CATEGORY_ID": 65,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低発熱系セメントの製造技術、シリカフュームの利用技術、粉体の混合技術を融合・最適化することにより開発されたプレミックスタイプのセメントです。設計基準強度=80～120N/mm<sup>2</sup>、さらにそれを上回る超高強度コンクリートの製造が可能です。"
+}, {
+ "PRODUCT_ID": 82,
+ "CATEGORY_ID": 66,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート１種・２種用の人工軽量骨材であり、普通コンクリートに対して２５％程度の構造物の死荷重の低減を図ることができます。近年、乾燥収縮量が普通コンクリートより低減することや、自己養生効果が大きいことも長所として報告されています。"
+}, {
+ "PRODUCT_ID": 9,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れた超速硬無収縮グラウト材です。ブリーディングなどの分離を生じず、短時間で高強度が得られます。"
+}, {
+ "PRODUCT_ID": 120,
+ "CATEGORY_ID": 90,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "プレミックスタイプの超低粘性PCグラウト材です。狭い間隙やロングスパンなどへの充填がスムーズに行えます。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物の体積変化に起因するひび割れを抑制する低添加型の石灰系膨張材です。"
+}, {
+ "PRODUCT_ID": 121,
+ "CATEGORY_ID": 91,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "打設後のコンクリートに塗布することで、初期の乾燥収縮を低減し微細なひび割れを抑制する塗布型高性能収縮低減剤です。塗膜形成機能がなく、コンクリートの外観に影響を与えません。"
+}, {
+ "PRODUCT_ID": 114,
+ "CATEGORY_ID": 87,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートの保湿性・保水性を高めることにより、コンクリートの打込み直後、または脱枠直後から始まる急激な水分の逸散を防ぎ、初期ひび割れを抑制します。"
+}, {
+ "PRODUCT_ID": 105,
+ "CATEGORY_ID": 82,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート表面に塗布することによって、コンクリート内部の水分逸散を抑制するとともに、外部からの塩化物や炭酸ガスなど劣化因子の侵入を抑制することができる耐久性向上を目的とした養生剤です。"
+}, {
+ "PRODUCT_ID": 122,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポリプロピレン製の繊維で初期収縮ひび割れの分散・抑制効果を有しています。コンクリートの剥落防止にも有効に作用します。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 84,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 13,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊繊維を混入し、じん性が高く衝撃などの耐久性を大幅に向上させたひび割れ防止型の超速硬無収縮グラウト材です。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 13,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。沓座の施工に適しています。"
+}, {
+ "PRODUCT_ID": 53,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 13,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性、充填性に優れたセメント系無収縮モルタルです。用途、施工時期により最適なタイプを用意しています。沓座の施工に適しています。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 64,
+ "CATEGORY_ID": 54,
+ "PURPOSE_ID": 8,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "アルカリシリカ反応性の評価やLECCAⅡなどを用いた塩化物イオンの拡散係数や炭酸化の進行予測により、構造物の耐久性設計を行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 123,
+ "CATEGORY_ID": 92,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "現場打ち杭の余盛コンクリートの除去作業が効率的にでき、工期短縮が可能です。騒音、振動、粉じんの発生を抑制し、作業環境の改善が可能です。"
+}, {
+ "PRODUCT_ID": 47,
+ "CATEGORY_ID": 40,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "頁岩を1,100℃で燃成・発泡させた人工軽量骨材です。湿潤単位体積重量が約11kN/m<sup>3</sup>と軽量ですが水に浮かばない適度な密度をもち、内部摩擦角として42度を設計に用いることができます。軟弱地盤などにおける盛土材、裏込め材等として適した材料です。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 49,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。狭隘な部分へのポンプ圧送による施工が可能で建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度13ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大径攪拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。"
+}, {
+ "PRODUCT_ID": 68,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "単管ロッドの先端から水平方向に超高圧固化材スラリーを噴射・回転させることにより改良体を造成する工法です。小型ボーリングマシンによる施工が可能で、狭所や橋桁下の空頭制限下における施工に優れています。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。機械が比較的小型のため簡易な仮設で、河川内での台船施工も可能です。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。周辺構造物や埋設物などの近接施工に適しています。"
+}, {
+ "PRODUCT_ID": 99,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌翼により土と固化材スラリーを強制的に攪拌混合し改良体を造成する工法です。品質管理システムにより信頼性の高い施工が可能です。"
+}, {
+ "PRODUCT_ID": 100,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "攪拌翼上部に取り付けたオーガスクリューを用い、改良時に攪拌翼体積および改良材吐出量に相当する量の排土を行うことで、周辺地盤変位を抑制することが可能な工法です。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の土木･建築工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 80,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "初期強度発現性に優れるエーライト（C<sub>3</sub>S）の比率を増加させるとともに、粉末度を高めることにより強度発現を早めています。初期強度発現が大きいことから養生期間を短縮できます。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物の体積変化に起因するひび割れを抑制する低添加型の石灰系膨張材です。"
+}, {
+ "PRODUCT_ID": 121,
+ "CATEGORY_ID": 91,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "打設後のコンクリートに塗布することで、初期の乾燥収縮を低減し微細なひび割れを抑制する塗布型高性能収縮低減剤です。塗膜形成機能がなく、コンクリートの外観に影響を与えません。"
+}, {
+ "PRODUCT_ID": 124,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポリプロピレン製の繊維で初期収縮ひび割れの分散・抑制効果を有しています。コンクリートの剥落防止にも有効に作用します。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。"
+}, {
+ "PRODUCT_ID": 105,
+ "CATEGORY_ID": 82,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート表面に塗布することによって、コンクリート内部の水分逸散を抑制するとともに、外部からの塩化物や炭酸ガスなど劣化因子の侵入を抑制することができる耐久性向上を目的とした養生剤です。"
+}, {
+ "PRODUCT_ID": 125,
+ "CATEGORY_ID": 93,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "吹付けコンクリートの粉じんを大幅に低減できます。付着性が向上しリバウンドが減少します。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 64,
+ "CATEGORY_ID": 54,
+ "PURPOSE_ID": 8,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "アルカリシリカ反応性の評価やLECCAⅡなどを用いた塩化物イオンの拡散係数や炭酸化の進行予測により、構造物の耐久性設計を行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 127,
+ "CATEGORY_ID": 94,
+ "PURPOSE_ID": 32,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊ポリマー化合物を主材とした加泥材です。水に溶解させ、切羽およびチャンバー内に注入し、掘削土砂と混合することで土砂を塑性流動化させます。"
+}, {
+ "PRODUCT_ID": 128,
+ "CATEGORY_ID": 95,
+ "PURPOSE_ID": 32,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "気泡シールド工法用特殊起泡剤です。滑らかで微細な気泡が掘削工の流動性、止水性を向上させ、安定した掘削を可能にします。"
+}, {
+ "PRODUCT_ID": 129,
+ "CATEGORY_ID": 95,
+ "PURPOSE_ID": 32,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セルロース系で安全性の高い気泡シールド工法用液体起泡剤です。溶解性に優れ、高粘性を特長としています。"
+}, {
+ "PRODUCT_ID": 130,
+ "CATEGORY_ID": 96,
+ "PURPOSE_ID": 32,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土木現場で排出される高含水汚泥に少量添加することにより、短時間にダンプトラックなどで運搬できるまでに改質することを可能にした中性の泥状土固化材です。"
+}, {
+ "PRODUCT_ID": 131,
+ "CATEGORY_ID": 97,
+ "PURPOSE_ID": 33,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "シールドトンネル工事で使用する２液可塑性裏込注入材の硬化材として開発されたスラグ系特殊セメントです。長距離圧送性に優れています。"
+}, {
+ "PRODUCT_ID": 132,
+ "CATEGORY_ID": 98,
+ "PURPOSE_ID": 33,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "シールドトンネル工事において地山の陥没や崩落を防ぐため、掘削壁面とセグメントの間に2液可塑性モルタルを充填する工法です。"
+}, {
+ "PRODUCT_ID": 76,
+ "CATEGORY_ID": 61,
+ "PURPOSE_ID": 33,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル工法で、流動性がよく狭小部への充填性に優れています。空洞・廃止管充填、トンネル・二次覆工シールド中込め等に適しています。"
+}, {
+ "PRODUCT_ID": 60,
+ "CATEGORY_ID": 50,
+ "PURPOSE_ID": 18,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "フライアッシュを使用した自己充填性に優れたスラリー状の埋戻し材料です。二次覆工中込め、ガス導管空洞充填、軽量盛土、埋戻し等に用いられています。"
+}, {
+ "PRODUCT_ID": 133,
+ "CATEGORY_ID": 99,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "平滑で汚れがつきにくい磁気質タイルパネルです。視界の安全性と快適な美観を長期間確保します。"
+}, {
+ "PRODUCT_ID": 134,
+ "CATEGORY_ID": 100,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "バーミキュライトとセメントを基材とした耐火被覆材です。高い耐火性能を有し、吹付け工法により工期短縮が図れます。"
+}, {
+ "PRODUCT_ID": 135,
+ "CATEGORY_ID": 101,
+ "PURPOSE_ID": 31,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント鉱物ならではの優れた急結性が得られます。吹付けコンクリートの優れた付着性とリバウンドの低減が図れます。ロックボルト、鋼製支保工等の鋼材を腐食させません。"
+}, {
+ "PRODUCT_ID": 117,
+ "CATEGORY_ID": 62,
+ "PURPOSE_ID": 17,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "平均粒径４μm、ブレーン9,000cm<sup>2</sup>/g以上の超微粒子セメントで、地盤への浸透性に極めて優れています。"
+}, {
+ "PRODUCT_ID": 77,
+ "CATEGORY_ID": 62,
+ "PURPOSE_ID": 17,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "超微粒子セメントと無機硬化促進材を組み合わせた地盤注入材です。ゲルタイムは数秒から10分程度まで調整可能です。浸透性に優れ、水ガラス系注入材に比べ高い耐久性を有する2液型注入材です。"
+}, {
+ "PRODUCT_ID": 136,
+ "CATEGORY_ID": 62,
+ "PURPOSE_ID": 17,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水と混練後、15～40分で硬化する１液型の急硬性注入材です。早期に強度を発現し、耐久性および施工性に優れています。"
+}, {
+ "PRODUCT_ID": 137,
+ "CATEGORY_ID": 62,
+ "PURPOSE_ID": 17,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "トンネル補助工法（AGF工法）用に開発された１液型の微粒子注入材です。２時間で硬化し初期強度発現性に優れています。"
+}, {
+ "PRODUCT_ID": 138,
+ "CATEGORY_ID": 62,
+ "PURPOSE_ID": 17,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメントを硬化促進させる急硬材です。初期強度発現、耐久性に優れています。"
+}, {
+ "PRODUCT_ID": 89,
+ "CATEGORY_ID": 71,
+ "PURPOSE_ID": 17,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高出力ロータリーパーカッションドリルを用いて削孔、盛土内に中径棒状補強体（標準径170ｍｍ）を築造し、切土斜面を補強する工法です。砂礫層・玉石を含む土層や障害物のある地盤に適しています。"
+}, {
+ "PRODUCT_ID": 90,
+ "CATEGORY_ID": 72,
+ "PURPOSE_ID": 17,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "大きなアンカー径と短いアンカー長（径400ｍｍ、最大長8ｍ）を構築し、地盤を強化・補強する工法です。共廻り防止翼により高い撹拌混合品質と、芯材にＦＲＰロッドを使用し高い耐腐食性があります。"
+}, {
+ "PRODUCT_ID": 91,
+ "CATEGORY_ID": 73,
+ "PURPOSE_ID": 19,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "落石の運動エネルギーを大きな変形性によって吸収する可撓性の防護柵です。リング状の特殊金網のため斜面において目立たず、自然景観に対応したデザインで、短期間での設置が可能です。"
+}, {
+ "PRODUCT_ID": 47,
+ "CATEGORY_ID": 40,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "頁岩を1,100℃で燃成・発泡させた人工軽量骨材です。湿潤単位体積重量が約11kN/m<sup>3</sup>と軽量ですが水に浮かばない適度な密度をもち、内部摩擦角として42度を設計に用いることができます。軟弱地盤などにおける盛土材、裏込め材等として適した材料です。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 49,
+ "CATEGORY_ID": 41,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。狭隘な部分へのポンプ圧送による施工が可能で建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 101,
+ "CATEGORY_ID": 80,
+ "PURPOSE_ID": 36,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "地下水圧による浮力対策（ウエイト材）として効果的です。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 74,
+ "CATEGORY_ID": 59,
+ "PURPOSE_ID": 37,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "泥水にセメント系固化材を混練し、用途に応じた設計と厳密な品質管理により製造するリサイクル100％の流動化処理土です。"
+}, {
+ "PRODUCT_ID": 75,
+ "CATEGORY_ID": 60,
+ "PURPOSE_ID": 37,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建設発生土、泥土等と固化材および水を混合し、締固めを伴わない埋戻し土として利用する工法です。狭隘な部分へのポンプ圧送による施工が可能で発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 78,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "酸化マグネシウムを主材とした無機系粉体材料で、汚染土壌に添加・混合することで汚染物質を不溶化する材料です。土壌汚染対策法に規定される第二種特定有害物質（重金属など）全般に有効で、鉛、ヒ素、フッ素等に特に有効に作用します。"
+}, {
+ "PRODUCT_ID": 79,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "汚染土壌の不溶化効果に改質効果を付与するとともに、中性領域（pH=5.8～8.6）でも不溶化が可能です。自然由来のヒ素やフッ素に対して顕著な効果を示す中性改質不溶化材です。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の建築･土木工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 111,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメントの水和熱が低いためコンクリートの断熱温度上昇を低く抑えることができます。また自己収縮も小さいため、ひび割れの抑制にも効果が期待できます。"
+}, {
+ "PRODUCT_ID": 81,
+ "CATEGORY_ID": 65,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低発熱系セメントの製造技術、シリカフュームの利用技術、粉体の混合技術を融合・最適化することにより開発されたプレミックスタイプのセメントです。設計基準強度=80～120N/mm<sup>2</sup>、さらにそれを上回る超高強度コンクリートの製造が可能です。"
+}, {
+ "PRODUCT_ID": 82,
+ "CATEGORY_ID": 66,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート１種・２種用の人工軽量骨材であり、普通コンクリートに対して２０～３０％程度の構造物の死荷重の低減を図ることができます。近年、乾燥収縮量が普通コンクリートより低減することや、自己養生効果が大きいことも長所として報告されています。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 114,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートの保湿性・保水性を高めることにより、コンクリートの打込み直後、または脱枠直後から始まる急激な水分の逸散を防ぎ、初期ひび割れを抑制します。"
+}, {
+ "PRODUCT_ID": 121,
+ "CATEGORY_ID": 102,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "打設後のコンクリートに塗布することで、初期の乾燥収縮を低減し微細なひび割れを抑制する塗布型高性能収縮低減剤です。塗膜形成機能がなく、コンクリートの外観に影響を与えません。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰石膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 139,
+ "CATEGORY_ID": 103,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建築物の上下階のスラブ間に、クリオン独自の高強度ALC（DDDパネル）を用いてロッキング方式で取り付ける超高層・高層住宅に適した非耐力壁の外壁材です。優れた耐震・耐風圧性能を有しています。"
+}, {
+ "PRODUCT_ID": 140,
+ "CATEGORY_ID": 103,
+ "PURPOSE_ID": 38,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐火性・断熱性・軽量性・遮音性に優れた軽量気泡コンクリートパネル（標準モデュール600mm幅）です。超高層ビルから一般住宅まで、外壁を中心に間仕切壁・屋根・床等建築物の構造部材として幅広く使用できます。"
+}, {
+ "PRODUCT_ID": 141,
+ "CATEGORY_ID": 104,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "石膏系でありながら曲面施工を可能とした画期的な不燃ボードです。ソフトで腰が強く、厳しい曲率半径でも容易に施工でき、多様な内装デザインに幅広い可能性をもたらします。じん性や遮音性に優れています。"
+}, {
+ "PRODUCT_ID": 142,
+ "CATEGORY_ID": 105,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸質原料、石灰質原料、補強繊維を主原料としてオートクレーブ養生した内装板です。吸放湿による膨張収縮が小さく、寸法安定性に優れています。軽量で加工性に優れ、粘り強く衝撃に強い特性があります。"
+}, {
+ "PRODUCT_ID": 143,
+ "CATEGORY_ID": 106,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板に特殊表面加工（加飾など）を施した軽量不燃化粧ボードです。木材同様の加工性を有し、現場加工が容易です。衝撃強度・寸法安定性に優れ幅広い内装に対応できます。"
+}, {
+ "PRODUCT_ID": 144,
+ "CATEGORY_ID": 106,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板またはオートクレーブセメントボードにウレタン樹脂系塗料などで処理塗装を施した軽量不燃化粧ボードです。木材同様の加工性を有し、現場加工が容易です。衝撃強度・寸法安定性に優れ幅広い内装に対応できます。"
+}, {
+ "PRODUCT_ID": 144,
+ "CATEGORY_ID": 107,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板またはオートクレーブセメントボードにウレタン樹脂系塗料などで処理塗装を施した軽量不燃化粧ボードです。木材同様の加工性を有し、現場加工が容易です。衝撃強度・寸法安定性に優れ幅広い内装に対応できます。"
+}, {
+ "PRODUCT_ID": 146,
+ "CATEGORY_ID": 109,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "長尺シート、カーペット等の床下地材に適用されるセルフレベリング材です。優れたセルフレベリング性や作業性により省力化が図れ工期短縮が可能となります。耐摩耗性などの諸物性にも優れています。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 115,
+ "CATEGORY_ID": 110,
+ "PURPOSE_ID": 28,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ASTEA MACSを用いた三次元FEM温度応力解析により、設計段階でひび割れ発生確率や予想ひび割れ幅を推定し、ひび割れ低減対策を立てることができます。（ASTEA MACS：マスコンクリートの非線形温度応力解析プログラム）"
+}, {
+ "PRODUCT_ID": 147,
+ "CATEGORY_ID": 111,
+ "PURPOSE_ID": 39,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "基材層と仕上げ層より構成されるロックウール系不燃断熱材です。ロックウールを高分子樹脂(エマルション)で吹き固めることにより、低密度と高い断熱性と粘り強さを実現した新しい断熱材です。"
+}, {
+ "PRODUCT_ID": 149,
+ "CATEGORY_ID": 113,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "木質パルプを補強材に石膏を主原料とした高耐火性湿式吹付けタイプの無機繊維を全く含まない環境配慮型の耐火被覆材です。公共施設などの中高層ビルの柱やはりの耐火被覆に用いられます。"
+}, {
+ "PRODUCT_ID": 150,
+ "CATEGORY_ID": 114,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "成型タイプならではの高品質な仕上がりで、1,000℃の耐熱性をもつケイ酸カルシウムの使用により品質の安定を確保します。見え掛かり部分に最適で各種建築物の柱やはりの耐火被覆に用いられます。"
+}, {
+ "PRODUCT_ID": 151,
+ "CATEGORY_ID": 115,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高耐熱性無機繊維フェルトと表面不織布を組み合わせた軽量巻付けタイプの鉄骨耐火被覆材です。カッターなどで裁断できる優れた加工性を有し、溶接機で固定ピンを打ち込むだけで容易に施工できます。"
+}, {
+ "PRODUCT_ID": 152,
+ "CATEGORY_ID": 116,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水の吸熱効果で鉄骨構造をガードし、材料からの発じんがなくクリーンな環境を提供します。吸熱パックとセラミックファイバーフェルトの相乗効果による優れた耐火･耐熱性を確保します。"
+}, {
+ "PRODUCT_ID": 153,
+ "CATEGORY_ID": 117,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "火災の延焼拡大要因の多くは建物内隙間などの耐火バックアップの不適性な処理によるものです。これらの問題に対し、より高い安全性を維持するための各種充填材・目地材です。"
+}, {
+ "PRODUCT_ID": 154,
+ "CATEGORY_ID": 118,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "吹付け耐火被覆材などに用いられるロックウールです。高炉スラグ、ケイ石を主原料とした人造鉱物繊維でアスベストとは異なる材料で燃えることはありません。"
+}, {
+ "PRODUCT_ID": 155,
+ "CATEGORY_ID": 119,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "工場でロックウールとセメントをプレミックスした材料を吹付け機で水と一緒に吹き付ける工法です。耐火性、不燃性、断熱性、吸音性に優れています。はり、柱、床等の耐火被覆他、天井、壁等への断熱・吸音に用いられます。"
+}, {
+ "PRODUCT_ID": 156,
+ "CATEGORY_ID": 120,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "解繊圧送されたロックウールと混練圧送されたセメントスラリーを吹付け機で同時に吹き付ける工法です。はり、柱、床、外壁、屋根等の耐火被覆の他、天井、壁等の断熱・吸音に用いられます。"
+}, {
+ "PRODUCT_ID": 157,
+ "CATEGORY_ID": 120,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "長年の実績と高い評価に支えられた耐火被覆の定番です。柱やはりの鉄骨耐火被覆だけでなく、床や壁の耐火・断熱・吸音用途にも使用できる汎用性の高い耐火被覆材です。"
+}, {
+ "PRODUCT_ID": 158,
+ "CATEGORY_ID": 121,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "硬質ポリ塩化ビニール製の直管や管継手を繊維混入セメントモルタルで被覆した二層管構造の耐火パイプです。雑排水管や通気管等、ライフラインの防災対策として活躍しています。"
+}, {
+ "PRODUCT_ID": 159,
+ "CATEGORY_ID": 122,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "繊維強化セメント板を基材とし、ケイ酸カルシウム板とグラスウール等で構成するリング状パネルです。積層ゴムの外周に積み重ね、最上部に加熱膨張材を配置し、優れた耐火性と容易な施工性を実現します。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 41,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。鉄骨ベース下、免震装置や機械基礎の施工に適しています。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の建築･土木工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 82,
+ "CATEGORY_ID": 66,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート１種・２種用の人工軽量骨材であり、普通コンクリートに対して２０～３０％程度の構造物の死荷重の低減を図ることができます。近年、乾燥収縮量が普通コンクリートより低減することや、自己養生効果が大きいことも長所として報告されています。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 114,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートの保湿性・保水性を高めることにより、コンクリートの打込み直後、または脱枠直後から始まる急激な水分の逸散を防ぎ、初期ひび割れを抑制します。"
+}, {
+ "PRODUCT_ID": 121,
+ "CATEGORY_ID": 102,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "打設後のコンクリートに塗布することで、初期の乾燥収縮を低減し微細なひび割れを抑制する塗布型高性能収縮低減剤です。塗膜形成機能がなく、コンクリートの外観に影響を与えません。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰石膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 139,
+ "CATEGORY_ID": 103,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "建築物の上下階のスラブ間に、クリオン独自の高強度ALC（DDDパネル）を用いてロッキング方式で取り付ける非耐力壁の外壁材です。優れた耐震・耐風圧性能を有しています。"
+}, {
+ "PRODUCT_ID": 162,
+ "CATEGORY_ID": 125,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "戸建住宅用軽量ラスモルタルです。作業性に優れ、工期短縮やひび割れ低減等の特性を有しています。"
+}, {
+ "PRODUCT_ID": 163,
+ "CATEGORY_ID": 126,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "既製調合の外装用タイル目地モルタルです。白色、灰色、濃灰色、特濃灰色、黒色、特黒色を標準色とした美しい色調でタイルを引き立たせます。また優れた防水性と耐摩耗性でタイル外壁の耐久性を高めます。ブリックタイル用にはブリックタイロンを用意しています。"
+}, {
+ "PRODUCT_ID": 164,
+ "CATEGORY_ID": 127,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "既製調合のタイル張りモルタルです。施工性に優れ、効率よいタイル張付け作業を実現します。また、優れた接着力と寸法安定性で長期耐久性を高めます。タイルの種類、工法等により、モザイク用と小口・二丁掛け用から選べます。"
+}, {
+ "PRODUCT_ID": 165,
+ "CATEGORY_ID": 127,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "再乳化型粉末樹脂を添加した既製調合のタイル張付け用モルタルです。施工性に優れ、効率よいタイル張付け作業を実現します。また優れた接着力、変形追従性と寸法安定性により長期耐久性を高めます。タイルや下地の種類等に合わせた品揃えを用意しています。"
+}, {
+ "PRODUCT_ID": 166,
+ "CATEGORY_ID": 128,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "再乳化型粉末樹脂を添加した既製調合の左官用モルタルです。施工性に優れ、効率よい塗付け作業を実現します。施工厚さ・仕上材の種類に合わせて、厚塗用と薄塗用を用意しています。"
+}, {
+ "PRODUCT_ID": 167,
+ "CATEGORY_ID": 128,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "塗布・混入両用型のモルタル接着増強剤です。"
+}, {
+ "PRODUCT_ID": 168,
+ "CATEGORY_ID": 128,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "２材型の既製調合の左官用モルタルです。施工性に優れ、効率よい塗付け作業を実現します。施工箇所、塗付け厚さ等に合わせた6種類の品揃えを用意しています。"
+}, {
+ "PRODUCT_ID": 140,
+ "CATEGORY_ID": 103,
+ "PURPOSE_ID": 38,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐火性・断熱性・軽量性・遮音性に優れた軽量気泡コンクリートパネル（標準モデュール600mm幅）です。超高層ビルから一般住宅まで、外壁を中心に間仕切壁・屋根・床等建築物の構造部材として幅広く使用できます。"
+}, {
+ "PRODUCT_ID": 141,
+ "CATEGORY_ID": 104,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "石膏系でありながら曲面施工を可能とした画期的な不燃ボードです。ソフトで腰が強く、厳しい曲率半径でも容易に施工でき、多様な内装デザインに幅広い可能性をもたらします。じん性や遮音性に優れています。"
+}, {
+ "PRODUCT_ID": 142,
+ "CATEGORY_ID": 105,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸質原料、石灰質原料、補強繊維を主原料としてオートクレーブ養生した内装板です。吸放湿による膨張収縮が小さく、寸法安定性に優れています。軽量で加工性に優れ、粘り強く衝撃に強い特性があります。"
+}, {
+ "PRODUCT_ID": 144,
+ "CATEGORY_ID": 106,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板またはオートクレーブセメントボードにウレタン樹脂系塗料などで処理塗装を施した軽量不燃化粧ボードです。木材同様の加工性を有し、現場加工が容易です。衝撃強度・寸法安定性に優れ幅広い内装に対応できます。"
+}, {
+ "PRODUCT_ID": 144,
+ "CATEGORY_ID": 107,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板またはオートクレーブセメントボードにウレタン樹脂系塗料などで処理塗装を施した軽量不燃化粧ボードです。木材同様の加工性を有し、現場加工が容易です。衝撃強度・寸法安定性に優れ幅広い内装に対応できます。"
+}, {
+ "PRODUCT_ID": 143,
+ "CATEGORY_ID": 106,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板に特殊表面加工（加飾など）を施した軽量不燃化粧ボードです。木材同様の加工性を有し、現場加工が容易です。衝撃強度・寸法安定性に優れ幅広い内装に対応できます。"
+}, {
+ "PRODUCT_ID": 169,
+ "CATEGORY_ID": 126,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "既製調合の内装用タイル目地モルタルです。美しい白色で内装用タイルを引き立たせます。また優れた防水性・耐摩耗性・防カビ性により、長期にわたり内装タイル壁を美しく保ちます。"
+}, {
+ "PRODUCT_ID": 170,
+ "CATEGORY_ID": 129,
+ "PURPOSE_ID": 43,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "屋上防水層の保護・化粧を目的としたエマルション系塗料です。塗膜は耐候性・耐水性・密着性に優れています。軽歩行と非歩行の2工法があります。"
+}, {
+ "PRODUCT_ID": 146,
+ "CATEGORY_ID": 109,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "長尺シート、カーペット等の床下地材に適用されるセルフレベリング材です。優れたセルフレベリング性や作業性により省力化が図れ工期短縮が可能となります。耐摩耗性などの諸物性にも優れています。"
+}, {
+ "PRODUCT_ID": 171,
+ "CATEGORY_ID": 109,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "張物下地専用のセメント系セルフレベリング材です。耐久性に優れ、平滑な床下地を作ります。速攻型もあります。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 115,
+ "CATEGORY_ID": 110,
+ "PURPOSE_ID": 28,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ASTEA MACSを用いた三次元FEM温度応力解析により、設計段階でひび割れ発生確率や予想ひび割れ幅を推定し、ひび割れ低減対策を立てることができます。（ASTEA MACS：マスコンクリートの非線形温度応力解析プログラム）"
+}, {
+ "PRODUCT_ID": 147,
+ "CATEGORY_ID": 111,
+ "PURPOSE_ID": 39,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "基材層と仕上げ層より構成されるロックウール系不燃断熱材です。ロックウールを高分子樹脂(エマルション)で吹き固めることにより、低密度と高い断熱性と粘り強さを実現した新しい断熱材です。"
+}, {
+ "PRODUCT_ID": 148,
+ "CATEGORY_ID": 112,
+ "PURPOSE_ID": 40,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "吸音性・耐久性に優れる軽量コンクリート系剛体多孔質吸音材です。全体積の約80％が微細な連続気泡で構成されているため、音のエネルギーを低音域から高音域まで吸収します。"
+}, {
+ "PRODUCT_ID": 149,
+ "CATEGORY_ID": 113,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "木質パルプを補強材に石膏を主原料とした高耐火性湿式吹付けタイプの無機繊維を全く含まない環境配慮型の耐火被覆材です。公共施設などの中高層ビルの柱やはりの耐火被覆に用いられます。"
+}, {
+ "PRODUCT_ID": 150,
+ "CATEGORY_ID": 114,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "成型タイプならではの高品質な仕上がりで、1,000℃の耐熱性をもつケイ酸カルシウムの使用により品質の安定を確保します。見え掛かり部分に最適で各種建築物の柱やはりの耐火被覆に用いられます。"
+}, {
+ "PRODUCT_ID": 151,
+ "CATEGORY_ID": 115,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高耐熱性無機繊維フェルトと表面不織布を組み合わせた軽量巻付けタイプの鉄骨耐火被覆材です。カッターなどで裁断できる優れた加工性を有し、溶接機で固定ピンを打ち込むだけで容易に施工できます。"
+}, {
+ "PRODUCT_ID": 152,
+ "CATEGORY_ID": 116,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水の吸熱効果で鉄骨構造をガードし、材料からの発じんがなくクリーンな環境を提供します。吸熱パックとセラミックファイバーフェルトの相乗効果による優れた耐火･耐熱性を確保します。"
+}, {
+ "PRODUCT_ID": 153,
+ "CATEGORY_ID": 117,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "火災の延焼拡大要因の多くは建物内隙間などの耐火バックアップの不適性な処理によるものです。これらの問題に対し、より高い安全性を維持するための各種充填材・目地材です。"
+}, {
+ "PRODUCT_ID": 158,
+ "CATEGORY_ID": 121,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "硬質ポリ塩化ビニール製の直管や管継手を繊維混入セメントモルタルで被覆した二層管構造の耐火パイプです。雑排水管や通気管等、ライフラインの防災対策として活躍しています。"
+}, {
+ "PRODUCT_ID": 154,
+ "CATEGORY_ID": 118,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "吹付け耐火被覆材などに用いられるロックウールです。高炉スラグ、ケイ石を主原料とした人造鉱物繊維でアスベストとは異なる材料で燃えることはありません。"
+}, {
+ "PRODUCT_ID": 155,
+ "CATEGORY_ID": 119,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "工場でロックウールとセメントをプレミックスした材料を吹付け機で水と一緒に吹き付ける工法です。耐火性、不燃性、断熱性、吸音性に優れています。はり、柱、床等の耐火被覆他、天井、壁等への断熱・吸音に用いられます。"
+}, {
+ "PRODUCT_ID": 156,
+ "CATEGORY_ID": 120,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "解繊圧送されたロックウールと混練圧送されたセメントスラリーを吹付け機で同時に吹き付ける工法です。はり、柱、床、外壁、屋根等の耐火被覆の他、天井、壁等の断熱・吸音に用いられます。"
+}, {
+ "PRODUCT_ID": 157,
+ "CATEGORY_ID": 120,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "長年の実績と高い評価に支えられた耐火被覆の定番です。柱やはりの鉄骨耐火被覆だけでなく、床や壁の耐火・断熱・吸音用途にも使用できる汎用性の高い耐火被覆材です。"
+}, {
+ "PRODUCT_ID": 172,
+ "CATEGORY_ID": 130,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "優れたセルフレベリング性があります。強度、耐摩耗性、耐水性等諸物性に優れています。"
+}, {
+ "PRODUCT_ID": 173,
+ "CATEGORY_ID": 130,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "戸建住宅などの基礎天端用レべリング材です。高い流動性で住宅基礎のレベル精度を高めます。"
+}, {
+ "PRODUCT_ID": 174,
+ "CATEGORY_ID": 131,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "弾性タイプのモルタルとトップコートで住宅基礎コンクリートの耐久性と美観を向上させるとともに、コンクリートの中性化も抑制します。カラーはグレー・ベージュのほかに、高級感のある石目調、自然石のような仕上がりをもつ３Ｄタイプもあります。"
+}, {
+ "PRODUCT_ID": 175,
+ "CATEGORY_ID": 132,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "戸建住宅基礎のコンクリートの打継ぎ面の処理剤です。散布するだけでコンクリート打継ぎ面の密着性を高めます。鉄筋とコンクリートとの付着も阻害しません。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 66,
+ "CATEGORY_ID": 56,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント系または石灰系の固化材を散布の後、施工機により攪拌・混合し、整正・転圧により地盤表層を締め固めて固化します。仮設足場の支持力増加に多く使用されます。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度１３ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大経攪拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 99,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌翼により土と固化材スラリーを強制的に攪拌混合し改良体を造成する工法です。品質管理システムにより信頼性の高い施工が可能です。"
+}, {
+ "PRODUCT_ID": 100,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "攪拌翼上部に取り付けたオーガスクリューを用い、改良時に攪拌翼体積および改良材吐出量に相当する量の排土を行うことで、周辺地盤変位を抑制することが可能な工法です。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の建築･土木工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 176,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般のポルトランドセメントの呈色成分である酸化第二鉄と酸化マグネシウムを少なくすることで白色化したセメントです。基本的な性質は普通ポルトランドセメントと同等です。顔料を混ぜて自由に着色できるため、建築物の内外壁などに使用されています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 177,
+ "CATEGORY_ID": 133,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "中性子線が発生する医療機関などの放射線施設では、遮蔽用コンクリート中の成分が放射化するリスクがあります。低熱ポルトランドセメントと石灰石骨材を使用することで、放射化のリスクが少ないコンクリートを提供します。"
+}, {
+ "PRODUCT_ID": 178,
+ "CATEGORY_ID": 134,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートに石灰石骨材を使用すると乾燥収縮が小さくなります。これにより構造物に発生するひび割れを抑制することが期待できます。"
+}, {
+ "PRODUCT_ID": 82,
+ "CATEGORY_ID": 66,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート１種・２種用の人工軽量骨材であり、普通コンクリートに対して２０～３０％程度の構造物の死荷重の低減を図ることができます。近年、乾燥収縮量が普通コンクリートより低減することや、自己養生効果が大きいことも長所として報告されています。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等、各種取り揃えています。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物の体積変化に起因するひび割れを抑制する低添加型の石灰系膨張材です。地下躯体、駐車場等に適しています。"
+}, {
+ "PRODUCT_ID": 94,
+ "CATEGORY_ID": 75,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "生コンクリートに混和する有機質収縮低減剤です。構造物における乾燥ひび割れを少量で効果的に低減できます。地下躯体、駐車場等に適しています。"
+}, {
+ "PRODUCT_ID": 121,
+ "CATEGORY_ID": 91,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "打設後のコンクリートに塗布することで、初期の乾燥収縮を低減し微細なひび割れを抑制する塗布型高性能収縮低減剤です。塗膜形成機能がなく、コンクリートの外観に影響を与えません。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 114,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートの保湿性・保水性を高めることにより、コンクリートの打込み直後、または脱枠直後から始まる急激な水分の逸散を防ぎ、初期ひび割れを抑制します。"
+}, {
+ "PRODUCT_ID": 179,
+ "CATEGORY_ID": 135,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメントとの反応により生成されるケイ酸塩ゲルと微粒子との充填効果によりコンクリートの水密性を高める防水剤です。躯体コンクリート防水などに適しています。"
+}, {
+ "PRODUCT_ID": 180,
+ "CATEGORY_ID": 135,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "微粒子のパラフィンエマルションがコンクリート中の毛細管に充填され、撥水性と高い防水性を発揮します。コンクリート躯体（地下構造物など）に防水機能を付与します。"
+}, {
+ "PRODUCT_ID": 183,
+ "CATEGORY_ID": 138,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "静電分散効果によりコンクリート構造物の品質（ひび割れの低減、耐久性、表面品質）の向上、ならびに作業性（ポンプ圧送性・流動性・充填性）の向上が図れます。"
+}, {
+ "PRODUCT_ID": 184,
+ "CATEGORY_ID": 139,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "オートクレーブセメントボードに裏面防水シーラー処理を施した外装用タイル下地用ボードです。鉄骨造建築物（地上２階建て以下）外壁などのタイル仕上げ用下地材に最適です。"
+}, {
+ "PRODUCT_ID": 186,
+ "CATEGORY_ID": 141,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "不燃・軽量・薄型の軒天専用のケイ酸カルシウム板です。住宅・マンション・倉庫等の不燃性能を要求される軒天全般に使われています。"
+}, {
+ "PRODUCT_ID": 187,
+ "CATEGORY_ID": 103,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "工場にて｢クリオンパネル｣の表面にタイルを確実堅固に張り付けたプレタイル張りのALCパネルです。パネル幅はタイル寸法に合わせて605mmを採用しています。"
+}, {
+ "PRODUCT_ID": 188,
+ "CATEGORY_ID": 103,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "｢クリオンパネル｣に意匠性をプラスしたパネルです。自然石柄や直線柄、格子柄等の多彩なバリエーションで表情豊かな街並みを創りだします。規格にないオリジナルデザインにも対応します。"
+}, {
+ "PRODUCT_ID": 190,
+ "CATEGORY_ID": 142,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「クリオンパネル」に独自の工場地下塗装により平滑性を生みだし、さらに現場で提携の塗装パートナーによる高性能塗料で上塗仕上げされるパネルです。上塗塗料は1,200色から選択できます。"
+}, {
+ "PRODUCT_ID": 191,
+ "CATEGORY_ID": 143,
+ "PURPOSE_ID": 12,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "｢クリオンライト｣を使った屋根（野地板）パネルです。高い断熱性から冷暖房費節減に貢献します。良好な遮音性により雨音などの軽量衝撃音対策に有効です。"
+}, {
+ "PRODUCT_ID": 192,
+ "CATEGORY_ID": 67,
+ "PURPOSE_ID": 38,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐久性が高く、無塗装でも優れた耐候性を有します。内外装、軒天等に適用できますが、特に外気の影響を受けやすいオープンな建物の内外壁に最適です。"
+}, {
+ "PRODUCT_ID": 140,
+ "CATEGORY_ID": 103,
+ "PURPOSE_ID": 38,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐火性・断熱性・軽量性・遮音性に優れた軽量気泡コンクリートパネル（標準モデュール600mm幅）です。超高層ビルから一般住宅まで、外壁を中心に間仕切壁・屋根・床等建築物の構造部材として幅広く使用できます。"
+}, {
+ "PRODUCT_ID": 193,
+ "CATEGORY_ID": 103,
+ "PURPOSE_ID": 38,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ALC薄型パネル（厚さ50mm×幅600mm）です。耐火性・断熱性・軽量性・遮音性に優れ、鉄骨造から木造まで幅広い建築分野で使用できます。表面がフラットな基本パネルの他、意匠性に優れたファッションパネルもあります。"
+}, {
+ "PRODUCT_ID": 194,
+ "CATEGORY_ID": 144,
+ "PURPOSE_ID": 38,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "超高強度繊維補強コンクリートを着色・加工した装飾用の壁材です。鮮明な色合いと光沢、石材やタイルでは実現できない大判サイズを提供できます。ショットブラストやデザイン加工等も可能です。"
+}, {
+ "PRODUCT_ID": 141,
+ "CATEGORY_ID": 104,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "石膏系でありながら曲面施工を可能とした画期的な不燃ボードです。ソフトで腰が強く、厳しい曲率半径でも容易に施工でき、多様な内装デザインに幅広い可能性をもたらします。じん性や遮音性に優れています。"
+}, {
+ "PRODUCT_ID": 143,
+ "CATEGORY_ID": 106,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板に特殊表面加工（加飾など）を施した軽量不燃化粧ボードです。木材同様の加工性を有し、現場加工が容易です。衝撃強度・寸法安定性に優れ幅広い内装に対応できます。"
+}, {
+ "PRODUCT_ID": 144,
+ "CATEGORY_ID": 106,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板またはオートクレーブセメントボードにウレタン樹脂系塗料などで処理塗装を施した軽量不燃化粧ボードです。木材同様の加工性を有し、現場加工が容易です。衝撃強度・寸法安定性に優れ幅広い内装に対応できます。"
+}, {
+ "PRODUCT_ID": 144,
+ "CATEGORY_ID": 107,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板またはオートクレーブセメントボードにウレタン樹脂系塗料などで処理塗装を施した軽量不燃化粧ボードです。木材同様の加工性を有し、現場加工が容易です。衝撃強度・寸法安定性に優れ幅広い内装に対応できます。"
+}, {
+ "PRODUCT_ID": 195,
+ "CATEGORY_ID": 145,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高強度なセメントボードです。優れた寸法安定性と高圧プレス成形による平滑な表面を有しています。各種建築物の内装に幅広く用いられます。"
+}, {
+ "PRODUCT_ID": 142,
+ "CATEGORY_ID": 105,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸質原料、石灰質原料、補強繊維を主原料としてオートクレーブ養生した内装板です。吸放湿による膨張収縮が小さく、寸法安定性に優れています。軽量で加工性に優れ、粘り強く衝撃に強い特性があります。"
+}, {
+ "PRODUCT_ID": 196,
+ "CATEGORY_ID": 146,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "VOC、有機酸等ホルムアルデヒドを含む様々なガスを効果的に抑制するガス抑制コート剤です。木質建材のガス抑制、文化施設の展示ケース下地材料等への塗布に用いられます。"
+}, {
+ "PRODUCT_ID": 197,
+ "CATEGORY_ID": 146,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "文化財に影響を与える低濃度の有害物質（有機酸、アンモニア）を検知するインジケータです。収蔵庫・展示室・展示ケース・保存箱等に用いられます。"
+}, {
+ "PRODUCT_ID": 198,
+ "CATEGORY_ID": 147,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウムの結晶であるゾノトライトを主成分とし、合成樹脂、ガラス繊維等からなる無機質ベースの成型板です。優れた寸法安定性、木材を越えた加工性と木材並みの軽量性を有しています。"
+}, {
+ "PRODUCT_ID": 199,
+ "CATEGORY_ID": 148,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "｢エースライト｣を素材にした既製品シリーズの造作材です。品番指定により即納が可能です。特注品も対応可能です。"
+}, {
+ "PRODUCT_ID": 200,
+ "CATEGORY_ID": 149,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「オーエスライト」に「エアチューンシート」などを熱圧着させた無機質系調湿材です。酸性・アルカリ性（アンモニア）ガスを吸着しシーズニングを短縮します。美術館などの調湿材に用いられます。"
+}, {
+ "PRODUCT_ID": 201,
+ "CATEGORY_ID": 149,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム、珪藻土、パルプ、ガラス繊維で構成される無機質系調湿材です。中性域材料のため汚染の心配がありません。美術館や博物館の収蔵庫・展示室・展示ケースに用いられます。"
+}, {
+ "PRODUCT_ID": 202,
+ "CATEGORY_ID": 150,
+ "PURPOSE_ID": 34,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "アンモニア、酸性ガス等の各種ガス吸着性能に加え、優れた調湿性能をもったシートです。カッターなどでカットできるシート状となっています。文化施設収蔵庫、展示ケースの棚等に用いられます。"
+}, {
+ "PRODUCT_ID": 204,
+ "CATEGORY_ID": 152,
+ "PURPOSE_ID": 44,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "化学物質を迅速に吸着除去するシートです。内装工事、塗装工事、木工事等の各種工事完了後に仮設的に用います。"
+}, {
+ "PRODUCT_ID": 147,
+ "CATEGORY_ID": 111,
+ "PURPOSE_ID": 39,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "基材層と仕上げ層より構成されるロックウール系不燃断熱材です。ロックウールを高分子樹脂(エマルション)で吹き固めることにより、低密度と高い断熱性と粘り強さを実現した新しい断熱材です。"
+}, {
+ "PRODUCT_ID": 148,
+ "CATEGORY_ID": 112,
+ "PURPOSE_ID": 40,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "吸音性・耐久性に優れる軽量コンクリート系剛体多孔質吸音材です。全体積の約80％が微細な連続気泡で構成されているため、音のエネルギーを低音域から高音域まで吸収します。"
+}, {
+ "PRODUCT_ID": 205,
+ "CATEGORY_ID": 153,
+ "PURPOSE_ID": 45,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート系剛体多孔質吸音材「シズカライト」と遮音材フレキシブルボードを複合し、61mmという薄さながら遮音性能だけでなく、優れた吸音性能を発揮する薄型防音パネルです。"
+}, {
+ "PRODUCT_ID": 206,
+ "CATEGORY_ID": 154,
+ "PURPOSE_ID": 46,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ケイ酸カルシウム板を積層した耐火・断熱パネルです。カーテンウォールバッカー材や耐火構造を必要とする外壁用下地材などに適しています。"
+}, {
+ "PRODUCT_ID": 149,
+ "CATEGORY_ID": 113,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "木質パルプを補強材に石膏を主原料とした高耐火性湿式吹付けタイプの無機繊維を全く含まない環境配慮型の耐火被覆材です。公共施設などの中高層ビルの柱やはりの耐火被覆に用いられます。"
+}, {
+ "PRODUCT_ID": 150,
+ "CATEGORY_ID": 114,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "成型タイプならではの高品質な仕上がりで、1,000℃の耐熱性をもつケイ酸カルシウムの使用により品質の安定を確保します。見え掛かり部分に最適で各種建築物の柱やはりの耐火被覆に用いられます。"
+}, {
+ "PRODUCT_ID": 151,
+ "CATEGORY_ID": 115,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高耐熱性無機繊維フェルトと表面不織布を組み合わせた軽量巻付けタイプの鉄骨耐火被覆材です。カッターなどで裁断できる優れた加工性を有し、溶接機で固定ピンを打ち込むだけで容易に施工できます。"
+}, {
+ "PRODUCT_ID": 152,
+ "CATEGORY_ID": 116,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水の吸熱効果で鉄骨構造をガードし、材料からの発じんがなくクリーンな環境を提供します。吸熱パックとセラミックファイバーフェルトの相乗効果による優れた耐火･耐熱性を確保します。"
+}, {
+ "PRODUCT_ID": 159,
+ "CATEGORY_ID": 122,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "繊維強化セメント板を基材とし、ケイ酸カルシウム板とグラスウール等で構成するリング状パネルです。積層ゴムの外周に積み重ね、最上部に加熱膨張材を配置し、優れた耐火性と容易な施工性を実現します。"
+}, {
+ "PRODUCT_ID": 153,
+ "CATEGORY_ID": 117,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "火災の延焼拡大要因の多くは建物内隙間などの耐火バックアップの不適性な処理によるものです。これらの問題に対し、より高い安全性を維持するための各種充填材・目地材です。"
+}, {
+ "PRODUCT_ID": 158,
+ "CATEGORY_ID": 121,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "硬質ポリ塩化ビニール製の直管や管継手を繊維混入セメントモルタルで被覆した二層管構造の耐火パイプです。軽量で施工が容易で、金属管に比べてトータルコストに優れています。"
+}, {
+ "PRODUCT_ID": 154,
+ "CATEGORY_ID": 118,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "吹付け耐火被覆材などに用いられるロックウールです。高炉スラグ、ケイ石を主原料とした人造鉱物繊維でアスベストとは異なる材料で燃えることはありません。"
+}, {
+ "PRODUCT_ID": 155,
+ "CATEGORY_ID": 119,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "工場でロックウールとセメントをプレミックスした材料を吹付け機で水と一緒に吹き付ける工法です。耐火性、不燃性、断熱性、吸音性に優れています。はり、柱、床等の耐火被覆他、天井、壁等への断熱・吸音に用いられます。"
+}, {
+ "PRODUCT_ID": 156,
+ "CATEGORY_ID": 120,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "解繊圧送されたロックウールと混練圧送されたセメントスラリーを吹付け機で同時に吹き付ける工法です。はり、柱、床、外壁、屋根等の耐火被覆の他、天井、壁等の断熱・吸音に用いられます。"
+}, {
+ "PRODUCT_ID": 157,
+ "CATEGORY_ID": 120,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "長年の実績と高い評価に支えられた耐火被覆の定番です。柱やはりの鉄骨耐火被覆だけでなく、床や壁の耐火・断熱・吸音用途にも使用できる汎用性の高い耐火被覆材です。"
+}, {
+ "PRODUCT_ID": 194,
+ "CATEGORY_ID": 155,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "超高強度繊維補強コンクリートを着色・加工した装飾用の床材です。鮮明な色合いと光沢、石材やタイルでは実現できない大判サイズを提供できます。ショットブラストやデザイン加工等も可能です。"
+}, {
+ "PRODUCT_ID": 207,
+ "CATEGORY_ID": 156,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ダクタルの高強度・高靱性を活かした薄肉・軽量のデッキパネルです。木製デッキのような着色と木目模様も再現できます。高い耐久性により塩害、凍結融解、摩耗等にも強く、長寿命な製品です。"
+}, {
+ "PRODUCT_ID": 146,
+ "CATEGORY_ID": 109,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "長尺シート、カーペット等の床下地材に適用されるセルフレベリング材です。優れたセルフレベリング性や作業性により省力化が図れ工期短縮が可能となります。耐摩耗性などの諸物性にも優れています。"
+}, {
+ "PRODUCT_ID": 208,
+ "CATEGORY_ID": 109,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "プラント出荷型のセメント系セルフレベリング材です。スラリーを専用運搬車で現場まで搬入でき、大量打設が可能です。（中部・東海地区限定品）"
+}, {
+ "PRODUCT_ID": 171,
+ "CATEGORY_ID": 109,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "張物下地専用のセメント系セルフレベリング材です。耐久性に優れ、平滑な床下地を作ります。速攻型もあります。"
+}, {
+ "PRODUCT_ID": 210,
+ "CATEGORY_ID": 157,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "安定した接着が得られる太平洋セルフレベリング材の専用プライマーです。気泡抑制効果に優れています。"
+}, {
+ "PRODUCT_ID": 114,
+ "CATEGORY_ID": 87,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートの保湿性・保水性を高めることにより、コンクリートの打込み直後、または脱枠直後から始まる急激な水分の逸散を防ぎ、初期ひび割れを抑制します。"
+}, {
+ "PRODUCT_ID": 95,
+ "CATEGORY_ID": 76,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "特殊硬質骨材を配合した耐摩耗床材です。工場や倉庫等、耐久性が求められる場所に適しています。"
+}, {
+ "PRODUCT_ID": 214,
+ "CATEGORY_ID": 76,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "｢チチブカラーコンクリート｣専用のカラーコーティング材です。水性タイプのため溶剤臭がなく、作業性や作業環境が良好です。"
+}, {
+ "PRODUCT_ID": 215,
+ "CATEGORY_ID": 76,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "アクリル系樹脂を主成分にした｢チチブカラーコンクリート｣専用のカラーコーティング材です。ウールローラーや刷毛を使って容易に塗ることができます。"
+}, {
+ "PRODUCT_ID": 216,
+ "CATEGORY_ID": 159,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "工場、倉庫等の防じんカラー仕上げ床材です。沈降が少ない骨材入り塗料のため、作業性が良好で耐摩耗性に優れています。"
+}, {
+ "PRODUCT_ID": 207,
+ "CATEGORY_ID": 156,
+ "PURPOSE_ID": 43,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ダクタルの高強度・高靱性を活かした薄肉・軽量のデッキパネルです。木製デッキのような着色と木目模様も再現できます。高い耐久性により塩害、凍結融解、摩耗等にも強く、長寿命な製品です。"
+}, {
+ "PRODUCT_ID": 218,
+ "CATEGORY_ID": 160,
+ "PURPOSE_ID": 43,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "木製デッキのような軽快な歩行感覚が得られる高強度繊維補強コンクリート製の浮床板システムです。設置場所の勾配や不陸にかかわらず平坦な舗装面を構成でき、耐久性、耐候性が優れています。"
+}, {
+ "PRODUCT_ID": 170,
+ "CATEGORY_ID": 129,
+ "PURPOSE_ID": 43,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "屋上防水層の保護・化粧を目的としたエマルション系塗料です。塗膜は耐候性・耐水性・密着性に優れています。施工下地や条件により最適な材料を選べます。"
+}, {
+ "PRODUCT_ID": 11,
+ "CATEGORY_ID": 215,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "半たわみ性舗装用のプレミックスセメント注入材です。硬化時間によって超速硬・早強・普通の3種類があり、各種カラー品、高流動タイプも取り揃えております。大型車両の乗り入れる場所の舗装のわだち掘れや摩耗を防止します。"
+}, {
+ "PRODUCT_ID": 45,
+ "CATEGORY_ID": 39,
+ "PURPOSE_ID": 3,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水との反応による膨張圧を利用した低公害型の破砕剤です。破砕効率がよく、2次破砕作業に伴う振動・騒音を低減できます。各種転石の小割、除去工事等に適用できます。"
+}, {
+ "PRODUCT_ID": 46,
+ "CATEGORY_ID": 39,
+ "PURPOSE_ID": 3,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般的な静的破砕剤に比べ、より短時間でパワフルに破砕します。緊急工事・災害防除工事等に威力を発揮し、より効率的な破砕工事が可能です。"
+}, {
+ "PRODUCT_ID": 123,
+ "CATEGORY_ID": 92,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "現場造成杭に対応する杭頭処理用静的破砕剤です。騒音・振動・粉じんの発生を抑制し、作業環境を改善できます。余盛コンクリートの撤去作業も効率的で工期が短縮できます。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 221,
+ "CATEGORY_ID": 163,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "主成分の生石灰は土中の水を吸収し土の塑性を改善します。粘土鉱物とのポゾラン反応により、安定鉱物を生成し地盤の安定を促進します。一般軟弱土（浅層）用です。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度１３ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大経攪拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 99,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌翼により土と固化材スラリーを強制的に攪拌混合し改良体を造成する工法です。品質管理システムにより信頼性の高い施工が可能です。"
+}, {
+ "PRODUCT_ID": 100,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "攪拌翼上部に取り付けたオーガスクリューを用い、改良時に攪拌翼体積および改良材吐出量に相当する量の排土を行うことで、周辺地盤変位を抑制することが可能な工法です。"
+}, {
+ "PRODUCT_ID": 78,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "酸化マグネシウムを主材とした無機系粉体材料で、汚染土壌に添加・混合することで汚染物質を不溶化する材料です。土壌汚染対策法に規定される第二種特定有害物質（重金属など）全般に有効で、鉛、ヒ素、フッ素等に特に有効に作用します。"
+}, {
+ "PRODUCT_ID": 79,
+ "CATEGORY_ID": 63,
+ "PURPOSE_ID": 10,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "汚染土壌の不溶化効果に改質効果を付与するとともに、中性領域（pH=5.8～8.6）でも不溶化が可能です。自然由来のヒ素やフッ素に対して顕著な効果を示す中性改質不溶化材です。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 115,
+ "CATEGORY_ID": 110,
+ "PURPOSE_ID": 28,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ASTEA MACSを用いた三次元FEM温度応力解析により、設計段階でひび割れ発生確率や予想ひび割れ幅を推定し、ひび割れ低減対策を立てることができます。（ASTEA MACS：マスコンクリートの非線形温度応力解析プログラム）"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の建築･土木工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 2,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ポルトランドセメントに高炉スラグ微粉末を混合して製造されたセメントです。高炉スラグ微粉末の潜在水硬性が長期にわたり発揮され、緻密で安定な硬化体組織を形成するため、長期強度発現性や化学抵抗性に優れたコンクリートの製造に適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 50,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント構成化合物のうちエーライト（C<sub>3</sub>S）、アルミネート相（C₃A）の含有量を少なくし、ビーライト（C<sub>2</sub>S）の含有量を多くすることにより水和熱の抑制を図るとともに長期強度発現性に優れています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 42,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 51,
+ "CATEGORY_ID": 64,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水和発熱量が小さく、長期強度発現性に優れるビーライト（C<sub>2</sub>S）の比率を増加させるとともに、その他の化合物の構成比率を最適化することにより、混合材を全く使用することなくセメントの低発熱化を実現しています。マスコンクリートや高強度コンクリートに適しています。"
+}, {
+ "PRODUCT_ID": 81,
+ "CATEGORY_ID": 65,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低発熱系セメントの製造技術、シリカフュームの利用技術、粉体の混合技術を融合・最適化することにより開発されたプレミックスタイプのセメントです。設計基準強度=80～120N/mm<sup>2</sup>、さらにそれを上回る超高強度コンクリートの製造が可能です。"
+}, {
+ "PRODUCT_ID": 82,
+ "CATEGORY_ID": 66,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "軽量コンクリート１種・２種用の人工軽量骨材であり、普通コンクリートに対して２０～３０％程度の構造物の死荷重の低減を図ることができます。近年、乾燥収縮量が普通コンクリートより低減することや、自己養生効果が大きいことも長所として報告されています。"
+}, {
+ "PRODUCT_ID": 101,
+ "CATEGORY_ID": 164,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "重量骨材を使用することにより、密度2.5～3.6t/m<sup>3</sup>（普通コンクリートの1.1～1.6倍の重さ）のコンクリートが製造可能です。コンクリートの密度を高めることで、遮蔽壁の厚さを低減することができます。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等、各種取り揃えています。機械基礎の施工にも適しています。"
+}, {
+ "PRODUCT_ID": 120,
+ "CATEGORY_ID": 90,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "プレミックスタイプの超低粘性ＰＣグラウト材です。従来のＰＣグラウトに比べ、粘性が低いため、狭い間隙やロングスパン等への充填がスムーズに行えます。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 114,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートの保湿性・保水性を高めることにより、コンクリートの打込み直後、または脱枠直後から始まる急激な水分の逸散を防ぎ、初期ひび割れを抑制します。"
+}, {
+ "PRODUCT_ID": 121,
+ "CATEGORY_ID": 102,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "打設後のコンクリートに塗布することで、初期の乾燥収縮を低減し微細なひび割れを抑制する塗布型高性能収縮低減剤です。塗膜形成機能がなく、コンクリートの外観に影響を与えません。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰石膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 222,
+ "CATEGORY_ID": 165,
+ "PURPOSE_ID": 39,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "真珠岩を発泡させた無機質かつ熱伝導率に優れた軽量断熱材で、LNG・LPGタンクの保冷充填材として使われています。"
+}, {
+ "PRODUCT_ID": 223,
+ "CATEGORY_ID": 164,
+ "PURPOSE_ID": 48,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "γ線、中性子線等が発生する加速器実験設備に使用する遮蔽ブロックです。目的に合わせて普通・重量・低放射化コンクリートを使用して様々な形状で製作が可能です。"
+}, {
+ "PRODUCT_ID": 224,
+ "CATEGORY_ID": 166,
+ "PURPOSE_ID": 48,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "繊維補強モルタルにボロン（ホウ素）を添加したもので熱中性子の吸収に優れた効果を発揮します。"
+}, {
+ "PRODUCT_ID": 225,
+ "CATEGORY_ID": 167,
+ "PURPOSE_ID": 49,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "原子力発電所で発生する低レベル放射性廃棄物の処理・処分に用いるPIC（ポリマー含浸コンクリート）をライニングしたドラム缶容器です。PICは普通コンクリートに比べ、強度・気密性・化学的安定性に優れており、長期耐久性の確保、放射性廃棄物の漏出を防止するとともに、貯蔵時や処分時の荷重に耐えることができます。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 115,
+ "CATEGORY_ID": 168,
+ "PURPOSE_ID": 28,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ASTEA MACSを用いた三次元FEM温度応力解析により、設計段階でひび割れ発生確率や予想ひび割れ幅を推定し、ひび割れ低減対策を立てることができます。（ASTEA MACS：マスコンクリートの非線形温度応力解析プログラム）"
+}, {
+ "PRODUCT_ID": 47,
+ "CATEGORY_ID": 40,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "頁岩を1,100℃で燃成・発泡させた人工軽量骨材です。湿潤単位体積重量が約11kN/m<sup>3</sup>と軽量ですが水に浮かばない適度な密度をもち、内部摩擦角として42度を設計に用いることができます。軟弱地盤などにおける盛土材、裏込め材等として適した材料です。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 66,
+ "CATEGORY_ID": 56,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "セメント系または石灰系の固化材を散布の後、施工機により攪拌・混合し、整正・転圧により地盤表層を締め固めて固化します。仮設足場の支持力増加に多く使用されます。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度１３ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大経攪拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 99,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌翼により土と固化材スラリーを強制的に攪拌混合し改良体を造成する工法です。品質管理システムにより信頼性の高い施工が可能です。"
+}, {
+ "PRODUCT_ID": 100,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "攪拌翼上部に取り付けたオーガスクリューを用い、改良時に攪拌翼体積および改良材吐出量に相当する量の排土を行うことで、周辺地盤変位を抑制することが可能な工法です。"
+}, {
+ "PRODUCT_ID": 1,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般の建築･土木工事をはじめとするあらゆる用途のコンクリートに使用されている最も汎用性の高いセメントです。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。厚みが大きな基礎、開口部廻り等の部位に適用されます。"
+}, {
+ "PRODUCT_ID": 114,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリートの保湿性・保水性を高めることにより、コンクリートの打込み直後、または脱枠直後から始まる急激な水分の逸散を防ぎ、初期ひび割れを抑制します。"
+}, {
+ "PRODUCT_ID": 121,
+ "CATEGORY_ID": 102,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "打設後のコンクリートに塗布することで、初期の乾燥収縮を低減し微細なひび割れを抑制する塗布型高性能収縮低減剤です。塗膜形成機能がなく、コンクリートの外観に影響を与えません。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰石膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 176,
+ "CATEGORY_ID": 1,
+ "PURPOSE_ID": 50,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "一般のポルトランドセメントの呈色成分である酸化第二鉄と酸化マグネシウムを少なくすることで白色化したセメントです。基本的な性質は普通ポルトランドセメントと同等です。顔料を混ぜて自由に着色できるため、モニュメントなどに使用されます。"
+}, {
+ "PRODUCT_ID": 38,
+ "CATEGORY_ID": 34,
+ "PURPOSE_ID": 51,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "歩道と緑地、ステップ等の区切りを表す縁石です。化粧仕上げ品もあります。"
+}, {
+ "PRODUCT_ID": 42,
+ "CATEGORY_ID": 36,
+ "PURPOSE_ID": 51,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "道路や広場等へ自動車の進入を阻止するために設置するコンクリート製杭です。"
+}, {
+ "PRODUCT_ID": 39,
+ "CATEGORY_ID": 37,
+ "PURPOSE_ID": 51,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "歩道と車道の境界に設置するブロックです。化粧仕上げ品もあります。"
+}, {
+ "PRODUCT_ID": 226,
+ "CATEGORY_ID": 37,
+ "PURPOSE_ID": 51,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "公園や外構等に設置するコンクリート製の椅子です。座面が木や天然石のものもあります。"
+}, {
+ "PRODUCT_ID": 43,
+ "CATEGORY_ID": 37,
+ "PURPOSE_ID": 51,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "植樹周りを構成するプレキャスト製品です。擬石仕上げのものとレンガ積みのものがあります。"
+}, {
+ "PRODUCT_ID": 88,
+ "CATEGORY_ID": 70,
+ "PURPOSE_ID": 51,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "歩行者の安全性確保はもちろんのこと、優れた耐候性と高い強度を併せもつ階段ブロックです。豊富なバリエーションとデザインから屋内・外を問わず選択できます。"
+}, {
+ "PRODUCT_ID": 227,
+ "CATEGORY_ID": 169,
+ "PURPOSE_ID": 52,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "公園、道路、住宅等や、建築物の壁面・屋上の緑化などに用いる高品質で低価格な地被植物（約300種類）を生産販売しています。造園の設計および施工にも対応します。"
+}, {
+ "PRODUCT_ID": 222,
+ "CATEGORY_ID": 170,
+ "PURPOSE_ID": 52,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "真珠岩、黒曜石を発泡させた軽量・無機質の土壌改良材です。優れた保肥性により植物の成長を助けます。"
+}, {
+ "PRODUCT_ID": 228,
+ "CATEGORY_ID": 170,
+ "PURPOSE_ID": 52,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "保水性と通気性に優れた無機質繊維（ロックウール）です。"
+}, {
+ "PRODUCT_ID": 218,
+ "CATEGORY_ID": 160,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "木製デッキのような軽快な歩行感覚が得られる高強度繊維補強コンクリート製の浮床版システムです。設置地盤の勾配や不陸にかかわらず、平坦な舗装面を構成でき、耐久性、耐候性に優れています。"
+}, {
+ "PRODUCT_ID": 230,
+ "CATEGORY_ID": 172,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "アクリル樹脂をバインダーとした全天候型テニスコート用塗料です。完成後はメンテナンスが容易で、ランニングコストが低いため、経済性の高いテニスコートになります。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "あらかじめセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測するコンクリート構造物診断システムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 47,
+ "CATEGORY_ID": 40,
+ "PURPOSE_ID": 4,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "頁岩を1,100℃で燃成・発泡させた人工軽量骨材です。湿潤単位体積重量が約11kN/m<sup>3</sup>と軽量ですが水に浮かばない適度な密度をもち、内部摩擦角として42度を設計に用いることができます。軟弱地盤などにおける盛土材、裏込め材等として適した材料です。"
+}, {
+ "PRODUCT_ID": 16,
+ "CATEGORY_ID": 12,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "透水性舗装で規定される透水係数1.0×10<sup>-2</sup>cm/secの10倍以上ある高透水性舗装ブロックです。表面は小石を敷き詰めたような洗出し仕上げで、長期間にわたり透水機能が保たれます。"
+}, {
+ "PRODUCT_ID": 17,
+ "CATEGORY_ID": 13,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "雨が降っても水たまりができず、歩行中の水の跳ね返りも低減する透水性舗装ブロックです。透水性舗装で規定される透水係数1.0×10<sup>-2</sup>cm/sec以上を確保しています。車道用も用意しています。"
+}, {
+ "PRODUCT_ID": 20,
+ "CATEGORY_ID": 16,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水を通しにくい緻密な表面構造をもつブロックです。使われていくうち天然石の風合いが増し、重厚な存在感が醸し出されます。"
+}, {
+ "PRODUCT_ID": 18,
+ "CATEGORY_ID": 14,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "雨水をブロック内部に蓄え、水分蒸発時の気化熱による冷却効果から舗装面の温度上昇を抑える保水性舗装ブロックです。ヒートアイランド現象を緩和します。"
+}, {
+ "PRODUCT_ID": 19,
+ "CATEGORY_ID": 15,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "雨水を速やかにブロック内に保水する機能と、ブロックの保水能力が飽和状態に達すると透水して路盤に排水する機能とをバランス良く併せ持っています。気化熱による冷却効果が得られます。"
+}, {
+ "PRODUCT_ID": 21,
+ "CATEGORY_ID": 17,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "太陽光の赤外線を効率的に反射して、舗装面の温度を最大15℃も低下させる舗装ブロックです。夏場の日中における蓄熱が少ないため、夜間の気温降下を妨げず、ヒートアイランド現象を緩和します。"
+}, {
+ "PRODUCT_ID": 22,
+ "CATEGORY_ID": 18,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "色落ちしにくいカラーサンドを用い、天然石の風合いを表層にもつ舗装ブロックです。普通、透水、保水機能を備えた3タイプがあります。"
+}, {
+ "PRODUCT_ID": 23,
+ "CATEGORY_ID": 19,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "玉砂利や砕石を表層に使い、天然石が敷き詰められた表情をもつ洗出し仕上げの透水性舗装ブロックです。"
+}, {
+ "PRODUCT_ID": 24,
+ "CATEGORY_ID": 20,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "玉砂利や砕石を表層に使い、表面を研磨することにより高級感を演出する光沢仕上げの舗装ブロックです。透水あるいは保水機能を備えた2タイプがあります。"
+}, {
+ "PRODUCT_ID": 30,
+ "CATEGORY_ID": 26,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "輸入ワインびんのガラスカレットを骨材としてリサイクルした舗装ブロックです。資源の節約や最終処分場の延命、さらには子供達への環境教育に役立っている製品です。"
+}, {
+ "PRODUCT_ID": 25,
+ "CATEGORY_ID": 21,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "独自の製法で色あせや視覚障害者誘導に欠かせない凸部の欠けが起こりにくいブロックです。発色が鮮やかなので高い輝度比が得られロービジョン者の視認性に優れています。"
+}, {
+ "PRODUCT_ID": 26,
+ "CATEGORY_ID": 22,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "車椅子やベビーカーに伝わる不快な振動を低減する舗装ブロックです。目地部の構造改良に加え、表面に設けたスリットが振動を軽減します。"
+}, {
+ "PRODUCT_ID": 27,
+ "CATEGORY_ID": 23,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "車椅子やベビーカーに伝わる不快な振動を低減する舗装ブロックです。目地幅を極力少なくし、目地部通過抵抗を大幅に低減したバリアフリー対応製品です。"
+}, {
+ "PRODUCT_ID": 232,
+ "CATEGORY_ID": 174,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "カラーバリエーションやテクスチャーに富んだインターロッキングブロックです。"
+}, {
+ "PRODUCT_ID": 29,
+ "CATEGORY_ID": 25,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "大判サイズの平板でも車の乗り入れが可能なバリアフリー対応のシステムです。強化板と細粒化防止対策を施した敷砂等を用いて、長期間安定した快適な平板舗装を実現します。"
+}, {
+ "PRODUCT_ID": 233,
+ "CATEGORY_ID": 175,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ブロック間にスペーサーを設置することで生まれる隙間に芝などを植栽する緑化舗装システムです。土壌と植物を入れることにより、ヒートアイランド現象を抑制できます。"
+}, {
+ "PRODUCT_ID": 234,
+ "CATEGORY_ID": 176,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "緑化制度や工場立地法等の緑地として加算でき、敷地を有効利用できます。"
+}, {
+ "PRODUCT_ID": 31,
+ "CATEGORY_ID": 27,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "自然石をブロックと同じ形状に加工した製品です。インターロッキングブロックと同じ乾式工法で施工ができるため、即時交通開放が可能なほか補修が容易に行えます。"
+}, {
+ "PRODUCT_ID": 32,
+ "CATEGORY_ID": 28,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "無機質な風合いの製品から、自然石を凌駕するような高級感をもった製品まで、多種類を取り揃えています。雨天時でも滑りにくく、歩行安全性が高い製品です。"
+}, {
+ "PRODUCT_ID": 33,
+ "CATEGORY_ID": 29,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "豊富なカラーバリエーションとデザインパターンが舗装面を鮮やかに彩り、景観デザイン性を高められる平板です。雨天時でも滑りにくい表面加工を施してあります。（関西・中部地区限定製品）"
+}, {
+ "PRODUCT_ID": 34,
+ "CATEGORY_ID": 30,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "絵文字などの視覚記号（サイン）やイラスト、写真などを印刷したタイルを貼り付けた舗装平板です。退色しにくい材料にすり減り防止加工を施してあるため、避難誘導表示や各種案内表示に最適です。"
+}, {
+ "PRODUCT_ID": 35,
+ "CATEGORY_ID": 31,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "遮熱性を付与した視覚障害者誘導用ブロックです。色あせや視覚障害者誘導に欠かせない凸部の欠けが起こりにくい製品です。"
+}, {
+ "PRODUCT_ID": 11,
+ "CATEGORY_ID": 215,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "半たわみ性舗装用のプレミックスセメント注入材です。硬化時間によって超速硬・早強・普通の3種類があり、各種カラー品、高流動タイプも取り揃えております。アプローチ、駐車場等のわだち防止に有効です。また保水性機能を備えたものもあります。"
+}, {
+ "PRODUCT_ID": 216,
+ "CATEGORY_ID": 178,
+ "PURPOSE_ID": 1,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "駐車場、公園、歩道、催事広場、プールサイド等のカラー仕上材です。多彩なカラーバリエーションで、建築外構を彩ります。また環境にやさしい水性塗料です。"
+}, {
+ "PRODUCT_ID": 65,
+ "CATEGORY_ID": 55,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "土と混合することで速やかに反応し、軟弱土の改良・固化処理を行うセメント系固化材です。軟弱地盤の改良やヘドロ、発生土および環境保全のための固化処理にいたるまで幅広い用途に対応できます。"
+}, {
+ "PRODUCT_ID": 67,
+ "CATEGORY_ID": 57,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "深度１３ｍまでの中層軟弱地盤において、機動性の高いバックホウをベースマシンとした施工機で、鉛直方向回転の大経攪拌翼により矩形改良体を造成します。処理能力が高く経済的な工法です。"
+}, {
+ "PRODUCT_ID": 69,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "高圧ジェット攪拌と機械攪拌の組み合わせにより、大口径改良体が造成され、工期短縮とコスト低減が図れます。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 70,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌と高圧噴射の併用により大口径改良体が得られ、既設構造物との密着施工が可能です。また固化材スラリー混入量に見合う量の排土を行うことで施工時の地盤変位を抑制できます。"
+}, {
+ "PRODUCT_ID": 72,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "複合相対攪拌翼により土と固化材スラリーとの三次元的な混合と練込みを行い、均質な改良体を造成します。高トルクなため大口径コラムの造成、礫層・硬質地盤での施工が可能です。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 73,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "「SJMM工法」の特長に加え、排土機構を用いて周辺地盤変位を抑制できる低変位高圧噴射攪拌工法です。ラップ施工が容易なため先行地中梁として建築物の掘削仮設に用いられます。"
+}, {
+ "PRODUCT_ID": 99,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "機械攪拌翼により土と固化材スラリーを強制的に攪拌混合し改良体を造成する工法です。品質管理システムにより信頼性の高い施工が可能です。"
+}, {
+ "PRODUCT_ID": 100,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "攪拌翼上部に取り付けたオーガスクリューを用い、改良時に攪拌翼体積および改良材吐出量に相当する量の排土を行うことで、周辺地盤変位を抑制することが可能な工法です。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "補修部位にセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測し、補修効果を診断するシステムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 238,
+ "CATEGORY_ID": 180,
+ "PURPOSE_ID": 54,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物は定期的に、適切なメンテナンスを行うことでその寿命を延ばすことができます。豊富な実績を基に、確かな技術でコンクリート調査・診断を行うとともに、LECCAⅡなどを使用した劣化予測も行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 239,
+ "CATEGORY_ID": 181,
+ "PURPOSE_ID": 55,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "塗布型含浸材、鉄筋防錆処理材、断面修復材を組み合わせた総合的補修工法です。内部鉄筋の防錆および予防保全に対しても効果が期待できます。"
+}, {
+ "PRODUCT_ID": 240,
+ "CATEGORY_ID": 182,
+ "PURPOSE_ID": 55,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "ブロック舗装の調査・診断、補修、路面洗浄による美観や機能回復を行います。独自資材を効果的に組み合わせ、舗装の供用性能を一定水準以上に保つことができます。"
+}, {
+ "PRODUCT_ID": 241,
+ "CATEGORY_ID": 183,
+ "PURPOSE_ID": 56,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 1,
+ "MERIT": "超微粒子セメントを使用した無機系ポリマーセメント注入材です。セメント系のため、湿潤面への施工が可能です。"
+}, {
+ "PRODUCT_ID": 6,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 3,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。凝結遅延剤量を調節することで可使時間の調整が可能です。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 242,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 4,
+ "MERIT": "プレミックスタイプの超速硬コンクリートです。現場で容易に超速硬コンクリートが製造できます。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。"
+}, {
+ "PRODUCT_ID": 5,
+ "CATEGORY_ID": 185,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 5,
+ "MERIT": "自己充填性能に優れた早期交通開放型の現場打ち高流動コンクリートです。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 243,
+ "CATEGORY_ID": 186,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 6,
+ "MERIT": "引張・曲げ強度が高く、ひび割れ抵抗性に優れた高じん性の超速硬鋼繊維補強コンクリートです。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 8,
+ "CATEGORY_ID": 5,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 9,
+ "MERIT": "1日で30N/mm<sup>2</sup>以上の圧縮強度を発現します。翌日の交通開放が可能です。"
+}, {
+ "PRODUCT_ID": 245,
+ "CATEGORY_ID": 188,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現する超速硬セメントです。凝結遅延剤量を調節することで可使時間の調整が可能です。"
+}, {
+ "PRODUCT_ID": 55,
+ "CATEGORY_ID": 45,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "3時間で20N/mm<sup>2</sup>程度の圧縮強度を発現するプレミックスタイプの超速硬モルタルです。"
+}, {
+ "PRODUCT_ID": 54,
+ "CATEGORY_ID": 45,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "2時間で24N/mm<sup>2</sup>以上の圧縮強度を発現するプレミックスタイプの超速硬無収縮モルタルです。"
+}, {
+ "PRODUCT_ID": 76,
+ "CATEGORY_ID": 189,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 11,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル工法で、流動性がよく狭小部への充填性に優れています。空洞・廃止管充填、トンネル・二次覆工シールド中込め等に適しています。"
+}, {
+ "PRODUCT_ID": 9,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 12,
+ "MERIT": "流動性・充填性に優れた超速硬無収縮グラウト材です。ブリーディングなどの分離を生じず、短時間で高強度が得られます。"
+}, {
+ "PRODUCT_ID": 84,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "特殊繊維を混入し、じん性が高く衝撃などの耐久性を大幅に向上させたひび割れ防止型の超速硬無収縮グラウト材です。"
+}, {
+ "PRODUCT_ID": 246,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 13,
+ "MERIT": "PC・RC版舗装用の超速硬性裏込め充填材です。僅かな隙間でも充填可能な高い流動性を有し、ブリーディングも生じません。早期交通開放が可能です。"
+}, {
+ "PRODUCT_ID": 247,
+ "CATEGORY_ID": 190,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 8,
+ "MERIT": "超速硬ポーラスコンクリート用の付着材です。ポーラスコンクリートと下地コンクリートとの付着強度が飛躍的に向上します。"
+}, {
+ "PRODUCT_ID": 250,
+ "CATEGORY_ID": 192,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "高強度、低乾燥収縮、高遮塩性等を有する環境負荷低減型の断面修復用ポリマーセメントモルタルです。"
+}, {
+ "PRODUCT_ID": 251,
+ "CATEGORY_ID": 193,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "亜硝酸塩系防錆剤を含んだ断面修復用ポリマーセメントモルタルです。低収縮でひび割れ抵抗性を有しています。"
+}, {
+ "PRODUCT_ID": 252,
+ "CATEGORY_ID": 191,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 16,
+ "MERIT": "プレミックスタイプのポリマーセメントモルタルです。速硬型で早期交通開放や工期短縮が図れます。ミキサーが不要で施工が容易な手もみタイプもあります。薄塗り施工も可能なため床施工ができます。"
+}, {
+ "PRODUCT_ID": 253,
+ "CATEGORY_ID": 194,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "適正量の水を加えて練り混ぜるだけで使用できる一材型補修用ポリマーセメントモルタルです。速硬・軽量型があります。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 17,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 254,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 18,
+ "MERIT": "プレミックスタイプのセメント系無収縮モルタルです。ブリーディングが生じず、流動性に優れ、安定した強度発現性が得られます。施工箇所・条件によってＮ（標準）、Ｍ（発熱抑制）、Ｎ-Ｆ（高流動性・充填性）が選択できます。"
+}, {
+ "PRODUCT_ID": 255,
+ "CATEGORY_ID": 195,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "パッド用のプレミックスタイプのセメント系無収縮モルタルです。コテ作業性や成型性に優れています。硬化時間により、N（一般タイプ）とQ（超速硬タイプ）の2種類があります。"
+}, {
+ "PRODUCT_ID": 257,
+ "CATEGORY_ID": 197,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "耐硫酸性に優れたモルタルです。下水道処理施設の補修工事に適用できます。"
+}, {
+ "PRODUCT_ID": 13,
+ "CATEGORY_ID": 9,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 9,
+ "MERIT": "コンクリートに添加して使用する速硬性混和材です。６～１２時間で２４N/ｍ㎡以上の圧縮強度が得られ、工期の短縮や緊急工事に適しています。"
+}, {
+ "PRODUCT_ID": 259,
+ "CATEGORY_ID": 199,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "超速硬コンクリート用の被膜養生剤です。コンクリート表面の急激な乾燥を抑制し、微細ひび割れの発生を防止します。"
+}, {
+ "PRODUCT_ID": 260,
+ "CATEGORY_ID": 189,
+ "PURPOSE_ID": 59,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 11,
+ "MERIT": "プレミックスタイプの軽量充填材で、ＬＡ（気泡型）とＬＷ（水中不分離型）があり、ＬＡは普通・早強・超速硬タイプがあります。空洞・中込め材・廃止管充填等に適しています。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 200,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 19,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 49,
+ "CATEGORY_ID": 200,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 19,
+ "MERIT": "建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。狭隘な部分へのポンプ圧送による施工が可能で建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 89,
+ "CATEGORY_ID": 202,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 21,
+ "MERIT": "高出力のロータリーパーカッションドリルを用いて削孔することにより、砂礫層・玉石を含む土層や障害物のある盛土内に中径棒状補強体（標準径170ｍｍ）を築造します。"
+}, {
+ "PRODUCT_ID": 90,
+ "CATEGORY_ID": 202,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 22,
+ "MERIT": "大きなアンカー径と短いアンカー長（径400ｍｍ、最大長8ｍ）を構築し、地盤を強化・補強する工法です。共廻り防止翼により高い撹拌混合品質と、芯材にＦＲＰロッドを使用し高い耐腐食性があります。"
+}, {
+ "PRODUCT_ID": 59,
+ "CATEGORY_ID": 203,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 23,
+ "MERIT": "既設・新設のマンホールに対応する耐震化対策工法です（液状化によるマンホール浮上抑制対策）。マンホールを加工することなく、経済的で確実に耐震化が図れます。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "補修部位にセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測し、補修効果を診断するシステムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 238,
+ "CATEGORY_ID": 180,
+ "PURPOSE_ID": 54,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物は定期的に、適切なメンテナンスを行うことでその寿命を延ばすことができます。豊富な実績を基に、確かな技術でコンクリート調査・診断を行うとともに、LECCAⅡなどを使用した劣化予測も行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 241,
+ "CATEGORY_ID": 183,
+ "PURPOSE_ID": 56,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 1,
+ "MERIT": "超微粒子セメントを使用した無機系ポリマーセメント注入材です。セメント系のため、湿潤面への施工が可能です。"
+}, {
+ "PRODUCT_ID": 113,
+ "CATEGORY_ID": 86,
+ "PURPOSE_ID": 57,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 24,
+ "MERIT": "超高強度繊維補強コンクリート（UFC）である「ダクタル」を使用した高性能埋設型枠です。中性化、塩害、凍害および磨耗等の経年劣化に対し極めて高い耐久性を有しています。"
+}, {
+ "PRODUCT_ID": 6,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 3,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。凝結遅延剤量を調節することで可使時間の調整が可能です。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 242,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 4,
+ "MERIT": "プレミックスタイプの超速硬コンクリートです。現場で容易に超速硬コンクリートが製造できます。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。"
+}, {
+ "PRODUCT_ID": 9,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 12,
+ "MERIT": "流動性・充填性に優れた超速硬無収縮グラウト材です。ブリーディングなどの分離を生じず、短時間で高強度が得られます。"
+}, {
+ "PRODUCT_ID": 246,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 13,
+ "MERIT": "PC・RC版舗装用の超速硬性裏込め充填材です。僅かな隙間でも充填可能な高い流動性を有し、ブリーディングも生じません。早期交通開放が可能です。"
+}, {
+ "PRODUCT_ID": 250,
+ "CATEGORY_ID": 192,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "高強度、低乾燥収縮、高遮塩性等を有する環境負荷低減型の断面修復用ポリマーセメントモルタルです。"
+}, {
+ "PRODUCT_ID": 251,
+ "CATEGORY_ID": 193,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "亜硝酸塩系防錆剤を含んだ断面修復用ポリマーセメントモルタルです。低収縮でひび割れ抵抗性を有しています。"
+}, {
+ "PRODUCT_ID": 261,
+ "CATEGORY_ID": 204,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "軽量性・速硬性を有する耐アルカリ性ガラス繊維を配合した断面修復用ポリマーセメントモルタルです。付着性に優れ、作業効率が向上します。"
+}, {
+ "PRODUCT_ID": 253,
+ "CATEGORY_ID": 194,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "適正量の水を加えて練り混ぜるだけで使用できる一材型補修用ポリマーセメントモルタルです。速硬・軽量型があります。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 17,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 254,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 18,
+ "MERIT": "プレミックスタイプのセメント系無収縮モルタルです。ブリーディングが生じず、流動性に優れ、安定した強度発現性が得られます。施工箇所・条件によってＮ（標準）、Ｍ（発熱抑制）、Ｎ-Ｆ（高流動性・充填性）が選択できます。"
+}, {
+ "PRODUCT_ID": 263,
+ "CATEGORY_ID": 206,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 26,
+ "MERIT": "スラリー化させた粘性土などに固化材および軽量化材（気泡・発泡ビーズ等）を混合した処理土であり、港湾・海洋環境での埋立や裏込材等に用いて、安定した軽量地盤を造りだす工法です。"
+}, {
+ "PRODUCT_ID": 49,
+ "CATEGORY_ID": 200,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 19,
+ "MERIT": "建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。狭隘な部分へのポンプ圧送による施工が可能で建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "補修部位にセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測し、補修効果を診断するシステムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 238,
+ "CATEGORY_ID": 180,
+ "PURPOSE_ID": 54,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物は定期的に、適切なメンテナンスを行うことでその寿命を延ばすことができます。豊富な実績を基に、確かな技術でコンクリート調査・診断を行うとともに、LECCAⅡなどを使用した劣化予測も行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 239,
+ "CATEGORY_ID": 181,
+ "PURPOSE_ID": 55,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "塗布型含浸材、鉄筋防錆処理材、断面修復材を組み合わせた総合的補修工法です。内部鉄筋の防錆および予防保全に対しても効果が期待できます。"
+}, {
+ "PRODUCT_ID": 241,
+ "CATEGORY_ID": 183,
+ "PURPOSE_ID": 56,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 1,
+ "MERIT": "超微粒子セメントを使用した無機系ポリマーセメント注入材です。セメント系のため、湿潤面への施工が可能です。"
+}, {
+ "PRODUCT_ID": 113,
+ "CATEGORY_ID": 86,
+ "PURPOSE_ID": 57,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 24,
+ "MERIT": "超高強度繊維補強コンクリート（UFC）である「ダクタル」を使用した高性能埋設型枠です。中性化、塩害、凍害および磨耗等の経年劣化に対し極めて高い耐久性を有しています。"
+}, {
+ "PRODUCT_ID": 6,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 3,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。凝結遅延剤量を調節することで可使時間の調整が可能です。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 250,
+ "CATEGORY_ID": 192,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "高強度、低乾燥収縮、高遮塩性等を有する環境負荷低減型の断面修復用ポリマーセメントモルタルです。"
+}, {
+ "PRODUCT_ID": 251,
+ "CATEGORY_ID": 193,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "亜硝酸塩系防錆剤を含んだ断面修復用ポリマーセメントモルタルです。低収縮でひび割れ抵抗性を有しています。"
+}, {
+ "PRODUCT_ID": 261,
+ "CATEGORY_ID": 204,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "軽量性・速硬性を有する耐アルカリ性ガラス繊維を配合した断面修復用ポリマーセメントモルタルです。付着性に優れ、作業効率が向上します。"
+}, {
+ "PRODUCT_ID": 264,
+ "CATEGORY_ID": 208,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 11,
+ "MERIT": "型枠充填用断面修復ポリマーセメントモルタルです。チクソトロピックなフレッシュ性状により、充填性が良好です。"
+}, {
+ "PRODUCT_ID": 253,
+ "CATEGORY_ID": 194,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "適正量の水を加えて練り混ぜるだけで使用できる一材型補修用ポリマーセメントモルタルです。左官工法・吹付工法のいずれでも施工が可能です。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 17,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 254,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 18,
+ "MERIT": "プレミックスタイプのセメント系無収縮モルタルです。ブリーディングが生じず、流動性に優れ、安定した強度発現性が得られます。施工箇所・条件によってＮ（標準）、Ｍ（発熱抑制）、Ｎ-Ｆ（高流動性・充填性）が選択できます。"
+}, {
+ "PRODUCT_ID": 262,
+ "CATEGORY_ID": 205,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "抗磨耗性ポリマーセメントモルタルです。コンクリート欠損部の断面修復だけでなく、水利構造物喫水面のモルタルライニング材にも適用できます。左官・吹付け工法で施工が可能です。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "補修部位にセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測し、補修効果を診断するシステムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 238,
+ "CATEGORY_ID": 180,
+ "PURPOSE_ID": 54,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物は定期的に、適切なメンテナンスを行うことでその寿命を延ばすことができます。豊富な実績を基に、確かな技術でコンクリート調査・診断を行うとともに、LECCAⅡなどを使用した劣化予測も行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 239,
+ "CATEGORY_ID": 181,
+ "PURPOSE_ID": 55,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "塗布型含浸材、鉄筋防錆処理材、断面修復材を組み合わせた総合的補修工法です。内部鉄筋の防錆および予防保全に対しても効果が期待できます。"
+}, {
+ "PRODUCT_ID": 241,
+ "CATEGORY_ID": 183,
+ "PURPOSE_ID": 56,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 1,
+ "MERIT": "超微粒子セメントを使用した無機系ポリマーセメント注入材です。セメント系のため、湿潤面への施工が可能です。"
+}, {
+ "PRODUCT_ID": 113,
+ "CATEGORY_ID": 86,
+ "PURPOSE_ID": 57,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 24,
+ "MERIT": "超高強度繊維補強コンクリート（UFC）である「ダクタル」を使用した高性能埋設型枠です。中性化、塩害、凍害および磨耗等の経年劣化に対し極めて高い耐久性を有しています。"
+}, {
+ "PRODUCT_ID": 6,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 3,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。凝結遅延剤量を調節することで可使時間の調整が可能です。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 250,
+ "CATEGORY_ID": 192,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "高強度、低乾燥収縮、高遮塩性等を有する環境負荷低減型の断面修復用ポリマーセメントモルタルです。"
+}, {
+ "PRODUCT_ID": 251,
+ "CATEGORY_ID": 193,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "亜硝酸塩系防錆剤を含んだ断面修復用ポリマーセメントモルタルです。低収縮でひび割れ抵抗性を有しています。"
+}, {
+ "PRODUCT_ID": 261,
+ "CATEGORY_ID": 204,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "軽量性・速硬性を有する耐アルカリ性ガラス繊維を配合した断面修復用ポリマーセメントモルタルです。付着性に優れ、作業効率が向上します。"
+}, {
+ "PRODUCT_ID": 253,
+ "CATEGORY_ID": 194,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "適正量の水を加えて練り混ぜるだけで使用できる一材型補修用ポリマーセメントモルタルです。速硬・軽量型があります。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 17,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 254,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 18,
+ "MERIT": "プレミックスタイプのセメント系無収縮モルタルです。ブリーディングが生じず、流動性に優れ、安定した強度発現性が得られます。施工箇所・条件によってＮ（標準）、Ｍ（発熱抑制）、Ｎ-Ｆ（高流動性・充填性）が選択できます。"
+}, {
+ "PRODUCT_ID": 262,
+ "CATEGORY_ID": 205,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "抗磨耗性ポリマーセメントモルタルです。コンクリート欠損部の断面修復だけでなく、水利構造物喫水面のモルタルライニング材にも適用できます。左官・吹付け工法で施工が可能です。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 28,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。RC巻立て工法などで用いられます。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 29,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。巻立て工法・ブレース・耐震壁の空隙充填材などとして適用できます。"
+}, {
+ "PRODUCT_ID": 49,
+ "CATEGORY_ID": 200,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 19,
+ "MERIT": "建設発生土に水とセメントおよび気泡を混合した軽量土を製造する工法です。狭隘な部分へのポンプ圧送による施工が可能で建設発生土のリサイクルにも有効です。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 6,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 3,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。凝結遅延剤量を調節することで可使時間の調整が可能です。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 242,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 4,
+ "MERIT": "プレミックスタイプの超速硬コンクリートです。現場で容易に超速硬コンクリートが製造できます。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。"
+}, {
+ "PRODUCT_ID": 5,
+ "CATEGORY_ID": 185,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 5,
+ "MERIT": "自己充填性能に優れた早期交通開放型の現場打ち高流動コンクリートです。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 243,
+ "CATEGORY_ID": 186,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 6,
+ "MERIT": "引張・曲げ強度が高く、ひび割れ抵抗性に優れた高じん性の超速硬鋼繊維補強コンクリートです。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 244,
+ "CATEGORY_ID": 187,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 7,
+ "MERIT": "収縮抑制型の超速硬繊維補強コンクリートです。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。都市部道路橋での夜間の低騒音施工や、大型機械で施工できない中小規模・狭幅員橋梁の床版の補強ができます。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 8,
+ "CATEGORY_ID": 5,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 9,
+ "MERIT": "1日で30N/mm<sup>2</sup>以上の圧縮強度を発現します。翌日の交通開放が可能です。"
+}, {
+ "PRODUCT_ID": 245,
+ "CATEGORY_ID": 188,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現する超速硬セメントです。凝結遅延剤量を調節することで可使時間の調整が可能です。"
+}, {
+ "PRODUCT_ID": 55,
+ "CATEGORY_ID": 45,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "3時間で20N/mm<sup>2</sup>程度の圧縮強度を発現するプレミックスタイプの超速硬モルタルです。"
+}, {
+ "PRODUCT_ID": 54,
+ "CATEGORY_ID": 45,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "2時間で24N/mm<sup>2</sup>以上の圧縮強度を発現するプレミックスタイプの超速硬無収縮モルタルです。"
+}, {
+ "PRODUCT_ID": 9,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 12,
+ "MERIT": "流動性・充填性に優れた超速硬無収縮グラウト材です。ブリーディングなどの分離を生じず、短時間で高強度が得られます。"
+}, {
+ "PRODUCT_ID": 84,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "特殊繊維を混入し、じん性が高く衝撃などの耐久性を大幅に向上させたひび割れ防止型の超速硬無収縮グラウト材です。"
+}, {
+ "PRODUCT_ID": 248,
+ "CATEGORY_ID": 191,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 35,
+ "MERIT": "超速硬ポリマーセメントモルタルです。鋼・コンクリートとの付着性に優れ、高い寸法安定性と優れた変形追従性により、耐久性に優れた複合構造を実現します。"
+}, {
+ "PRODUCT_ID": 249,
+ "CATEGORY_ID": 191,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 35,
+ "MERIT": "超速硬ポリマーセメントモルタルです。鋼・コンクリートとの付着性に優れ、高い寸法安定性と優れた変形追従性により、耐久性に優れた複合構造を実現します。"
+}, {
+ "PRODUCT_ID": 252,
+ "CATEGORY_ID": 191,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 16,
+ "MERIT": "プレミックスタイプのポリマーセメントモルタルです。速硬型で早期交通開放や工期短縮が図れます。ミキサーが不要で施工が容易な手もみタイプもあります。薄塗り施工も可能なため床施工ができます。"
+}, {
+ "PRODUCT_ID": 254,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 18,
+ "MERIT": "プレミックスタイプのセメント系無収縮モルタルです。ブリーディングが生じず、流動性に優れ、安定した強度発現性が得られます。施工箇所・条件によってＮ（標準）、Ｍ（発熱抑制）、Ｎ-Ｆ（高流動性・充填性）が選択できます。"
+}, {
+ "PRODUCT_ID": 255,
+ "CATEGORY_ID": 195,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "パッド用のプレミックスタイプのセメント系無収縮モルタルです。コテ作業性や成型性に優れています。硬化時間により、N（一般タイプ）とQ（超速硬タイプ）の2種類があります。"
+}, {
+ "PRODUCT_ID": 13,
+ "CATEGORY_ID": 9,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 9,
+ "MERIT": "コンクリートに添加して使用する速硬性混和材です。６～１２時間で２４N/ｍ㎡以上の圧縮強度が得られ、工期の短縮や緊急工事に適しています"
+}, {
+ "PRODUCT_ID": 259,
+ "CATEGORY_ID": 199,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "超速硬コンクリート用の被膜養生剤です。コンクリート表面の急激な乾燥を抑制し、微細ひび割れの発生を防止します。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "補修部位にセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測し、補修効果を診断するシステムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 238,
+ "CATEGORY_ID": 180,
+ "PURPOSE_ID": 54,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物は定期的に、適切なメンテナンスを行うことでその寿命を延ばすことができます。豊富な実績を基に、確かな技術でコンクリート調査・診断を行うとともに、LECCAⅡなどを使用した劣化予測も行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 239,
+ "CATEGORY_ID": 181,
+ "PURPOSE_ID": 55,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "塗布型含浸材、鉄筋防錆処理材、断面修復材を組み合わせた総合的補修工法です。内部鉄筋の防錆および予防保全に対しても効果が期待できます。"
+}, {
+ "PRODUCT_ID": 241,
+ "CATEGORY_ID": 183,
+ "PURPOSE_ID": 56,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 1,
+ "MERIT": "超微粒子セメントを使用した無機系ポリマーセメント注入材です。セメント系のため、湿潤面への施工が可能です。"
+}, {
+ "PRODUCT_ID": 113,
+ "CATEGORY_ID": 86,
+ "PURPOSE_ID": 57,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 24,
+ "MERIT": "超高強度繊維補強コンクリート（UFC）である「ダクタル」を使用した高性能埋設型枠です。中性化、塩害、凍害および磨耗等の経年劣化に対し極めて高い耐久性を有しています。"
+}, {
+ "PRODUCT_ID": 265,
+ "CATEGORY_ID": 209,
+ "PURPOSE_ID": 57,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 2,
+ "MERIT": "コンクリートのひび割れ追従性に優れている柔軟型ポリマーセメント系仕上げ材です。"
+}, {
+ "PRODUCT_ID": 250,
+ "CATEGORY_ID": 192,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "高強度、低乾燥収縮、高遮塩性等を有する環境負荷低減型の断面修復用ポリマーセメントモルタルです。"
+}, {
+ "PRODUCT_ID": 251,
+ "CATEGORY_ID": 193,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "亜硝酸塩系防錆剤を含んだ断面修復用ポリマーセメントモルタルです。低収縮でひび割れ抵抗性を有しています。"
+}, {
+ "PRODUCT_ID": 264,
+ "CATEGORY_ID": 208,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 11,
+ "MERIT": "型枠充填用断面修復ポリマーセメントモルタルです。チクソトロピックなフレッシュ性状により、充填性が良好です。"
+}, {
+ "PRODUCT_ID": 253,
+ "CATEGORY_ID": 194,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "適正量の水を加えて練り混ぜるだけで使用できる一材型補修用ポリマーセメントモルタルです。速硬・軽量型があります。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 17,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 266,
+ "CATEGORY_ID": 210,
+ "PURPOSE_ID": 62,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 30,
+ "MERIT": "三軸ビニロン繊維シートとポリマーセメントペーストを組み合わせた、無機系のはく落防止工法です。はく落を防止するとともに、コンクリートの耐久性向上を図ります。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 31,
+ "MERIT": "コンクリート構造物の体積変化に起因するひび割れを抑制する低添加型の石灰系膨張材です。RC巻立て工法などで用いられます。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 28,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。RC巻立て工法などで用いられます。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 36,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。巻立て工法・ブレース・耐震壁の空隙充填材などとして適用できます。"
+}, {
+ "PRODUCT_ID": 267,
+ "CATEGORY_ID": 211,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 29,
+ "MERIT": "耐震補強・断面修復におけるモルタル施工の際の塗布型吸水防止材です。下地コンクリートへの密着性に優れ、強固な皮膜を形成します。耐水性・接着性に優れています。"
+}, {
+ "PRODUCT_ID": 268,
+ "CATEGORY_ID": 212,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 29,
+ "MERIT": "アクリル系モルタル接着補強材です。透水性・吸水性の抑制に効果があります。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 200,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 19,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "補修部位にセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測し、補修効果を診断するシステムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 238,
+ "CATEGORY_ID": 180,
+ "PURPOSE_ID": 54,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物は定期的に、適切なメンテナンスを行うことでその寿命を延ばすことができます。豊富な実績を基に、確かな技術でコンクリート調査・診断を行うとともに、LECCAⅡなどを使用した劣化予測も行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 239,
+ "CATEGORY_ID": 181,
+ "PURPOSE_ID": 55,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "塗布型含浸材、鉄筋防錆処理材、断面修復材を組み合わせた総合的補修工法です。内部鉄筋の防錆および予防保全に対しても効果が期待できます。"
+}, {
+ "PRODUCT_ID": 241,
+ "CATEGORY_ID": 183,
+ "PURPOSE_ID": 56,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 1,
+ "MERIT": "超微粒子セメントを使用した無機系ポリマーセメント注入材です。セメント系のため、湿潤面への施工が可能です。"
+}, {
+ "PRODUCT_ID": 6,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 3,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。凝結遅延剤量を調節することで可使時間の調整が可能です。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 242,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 4,
+ "MERIT": "プレミックスタイプの超速硬コンクリートです。現場で容易に超速硬コンクリートが製造できます。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。"
+}, {
+ "PRODUCT_ID": 76,
+ "CATEGORY_ID": 189,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 11,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル工法で、流動性がよく狭小部への充填性に優れています。空洞・廃止管充填、トンネル・二次覆工シールド中込め等に適しています。"
+}, {
+ "PRODUCT_ID": 251,
+ "CATEGORY_ID": 193,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "亜硝酸塩系防錆剤を含んだ断面修復用ポリマーセメントモルタルです。低収縮でひび割れ抵抗性を有しています。"
+}, {
+ "PRODUCT_ID": 261,
+ "CATEGORY_ID": 204,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "軽量性・速硬性を有する耐アルカリ性ガラス繊維を配合した断面修復用ポリマーセメントモルタルです。付着性に優れ、作業効率が向上します。"
+}, {
+ "PRODUCT_ID": 253,
+ "CATEGORY_ID": 194,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "適正量の水を加えて練り混ぜるだけで使用できる一材型補修用ポリマーセメントモルタルです。速硬・軽量型があります。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 17,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 254,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 18,
+ "MERIT": "プレミックスタイプのセメント系無収縮モルタルです。ブリーディングが生じず、流動性に優れ、安定した強度発現性が得られます。施工箇所・条件によってＮ（標準）、Ｍ（発熱抑制）、Ｎ-Ｆ（高流動性・充填性）が選択できます。"
+}, {
+ "PRODUCT_ID": 266,
+ "CATEGORY_ID": 210,
+ "PURPOSE_ID": 62,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 30,
+ "MERIT": "三軸ビニロン繊維シートとポリマーセメントペーストを組み合わせた、無機系のはく落防止工法です。はく落を防止するとともに、コンクリートの耐久性向上を図ります。"
+}, {
+ "PRODUCT_ID": 260,
+ "CATEGORY_ID": 189,
+ "PURPOSE_ID": 59,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 11,
+ "MERIT": "プレミックスタイプの軽量充填材で、ＬＡ（気泡型）とＬＷ（水中不分離型）があり、ＬＡは普通・早強・超速硬タイプがあります。空洞・中込め材・廃止管充填等に適しています。"
+}, {
+ "PRODUCT_ID": 48,
+ "CATEGORY_ID": 200,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 19,
+ "MERIT": "セメント、水、細粒材および気泡から構成される超軽量モルタル盛土工法です。任意の圧縮強度に設定でき、また流動性がよく硬化後は自立するため構造物への土圧を低減できます。"
+}, {
+ "PRODUCT_ID": 89,
+ "CATEGORY_ID": 202,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 21,
+ "MERIT": "高出力のロータリーパーカッションドリルを用いて削孔することにより、砂礫層・玉石を含む土層や障害物のある盛土内に中径棒状補強体（標準径170ｍｍ）を築造します。"
+}, {
+ "PRODUCT_ID": 90,
+ "CATEGORY_ID": 202,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 35,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 22,
+ "MERIT": "大きなアンカー径と短いアンカー長（径400ｍｍ、最大長8ｍ）を構築し、地盤を強化・補強する工法です。共廻り防止翼により高い撹拌混合品質と、芯材にＦＲＰロッドを使用し高い耐腐食性があります。"
+}, {
+ "PRODUCT_ID": 63,
+ "CATEGORY_ID": 53,
+ "PURPOSE_ID": 7,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "補修部位にセンサおよびRFIDタグを埋設することで、無線にて簡便かつ非破壊で、ひずみ・温度・鋼材腐食環境を計測し、補修効果を診断するシステムです。さらに固有IDやICタグのメモリを活用した「かぶり厚検査」、「点検情報管理」システムもラインアップしています。"
+}, {
+ "PRODUCT_ID": 238,
+ "CATEGORY_ID": 180,
+ "PURPOSE_ID": 54,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物は定期的に、適切なメンテナンスを行うことでその寿命を延ばすことができます。豊富な実績を基に、確かな技術でコンクリート調査・診断を行うとともに、LECCAⅡなどを使用した劣化予測も行います。<br/>（LECCAⅡ：コンクリート構造物の長期性能シミュレーションプログラム）"
+}, {
+ "PRODUCT_ID": 239,
+ "CATEGORY_ID": 181,
+ "PURPOSE_ID": 55,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "塗布型含浸材、鉄筋防錆処理材、断面修復材を組み合わせた総合的補修工法です。内部鉄筋の防錆および予防保全に対しても効果が期待できます。"
+}, {
+ "PRODUCT_ID": 241,
+ "CATEGORY_ID": 183,
+ "PURPOSE_ID": 56,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 1,
+ "MERIT": "超微粒子セメントを使用した無機系ポリマーセメント注入材です。セメント系のため、湿潤面への施工が可能です。"
+}, {
+ "PRODUCT_ID": 113,
+ "CATEGORY_ID": 86,
+ "PURPOSE_ID": 57,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 24,
+ "MERIT": "超高強度繊維補強コンクリート（UFC）である「ダクタル」を使用した高性能埋設型枠です。中性化、塩害、凍害および磨耗等の経年劣化に対し極めて高い耐久性を有しています。"
+}, {
+ "PRODUCT_ID": 265,
+ "CATEGORY_ID": 209,
+ "PURPOSE_ID": 57,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 2,
+ "MERIT": "コンクリートのひび割れ追従性に優れている柔軟型ポリマーセメント系仕上げ材です。"
+}, {
+ "PRODUCT_ID": 170,
+ "CATEGORY_ID": 129,
+ "PURPOSE_ID": 57,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 2,
+ "MERIT": "屋上防水層の保護・化粧を目的としたエマルション系塗料です。塗膜は耐候性・耐水性・密着性に優れています。施工下地や条件により最適な材料を選べます。"
+}, {
+ "PRODUCT_ID": 6,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 3,
+ "MERIT": "3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。凝結遅延剤量を調節することで可使時間の調整が可能です。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 242,
+ "CATEGORY_ID": 3,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 4,
+ "MERIT": "プレミックスタイプの超速硬コンクリートです。現場で容易に超速硬コンクリートが製造できます。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。"
+}, {
+ "PRODUCT_ID": 55,
+ "CATEGORY_ID": 45,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "3時間で20N/mm<sup>2</sup>程度の圧縮強度を発現するプレミックスタイプの超速硬モルタルです。"
+}, {
+ "PRODUCT_ID": 54,
+ "CATEGORY_ID": 45,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "2時間で24N/mm<sup>2</sup>以上の圧縮強度を発現するプレミックスタイプの超速硬無収縮モルタルです。"
+}, {
+ "PRODUCT_ID": 9,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 12,
+ "MERIT": "流動性・充填性に優れた超速硬無収縮グラウト材です。ブリーディングなどの分離を生じず、短時間で高強度が得られます。"
+}, {
+ "PRODUCT_ID": 84,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "特殊繊維を混入し、じん性が高く衝撃などの耐久性を大幅に向上させたひび割れ防止型の超速硬無収縮グラウト材です。"
+}, {
+ "PRODUCT_ID": 250,
+ "CATEGORY_ID": 192,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "高強度、低乾燥収縮、高遮塩性等を有する環境負荷低減型の断面修復用ポリマーセメントモルタルです。"
+}, {
+ "PRODUCT_ID": 251,
+ "CATEGORY_ID": 193,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "亜硝酸塩系防錆剤を含んだ断面修復用ポリマーセメントモルタルです。低収縮でひび割れ抵抗性を有しています。"
+}, {
+ "PRODUCT_ID": 252,
+ "CATEGORY_ID": 191,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 16,
+ "MERIT": "プレミックスタイプのポリマーセメントモルタルです。速硬型で早期交通開放や工期短縮が図れます。ミキサーが不要で施工が容易な手もみタイプもあります。薄塗り施工も可能なため床施工ができます。"
+}, {
+ "PRODUCT_ID": 261,
+ "CATEGORY_ID": 204,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 25,
+ "MERIT": "軽量性・速硬性を有する耐アルカリ性ガラス繊維を配合した断面修復用ポリマーセメントモルタルです。付着性に優れ、作業効率が向上します。"
+}, {
+ "PRODUCT_ID": 264,
+ "CATEGORY_ID": 208,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 11,
+ "MERIT": "型枠充填用断面修復ポリマーセメントモルタルです。チクソトロピックなフレッシュ性状により、充填性が良好です。"
+}, {
+ "PRODUCT_ID": 253,
+ "CATEGORY_ID": 194,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 15,
+ "MERIT": "適正量の水を加えて練り混ぜるだけで使用できる一材型補修用ポリマーセメントモルタルです。速硬・軽量型があります。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 17,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。"
+}, {
+ "PRODUCT_ID": 254,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 18,
+ "MERIT": "プレミックスタイプのセメント系無収縮モルタルです。ブリーディングが生じず、流動性に優れ、安定した強度発現性が得られます。施工箇所・条件によってＮ（標準）、Ｍ（発熱抑制）、Ｎ-Ｆ（高流動性・充填性）が選択できます。"
+}, {
+ "PRODUCT_ID": 255,
+ "CATEGORY_ID": 195,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 10,
+ "MERIT": "パッド用のプレミックスタイプのセメント系無収縮モルタルです。コテ作業性や成型性に優れています。硬化時間により、N（一般タイプ）とQ（超速硬タイプ）の2種類があります。"
+}, {
+ "PRODUCT_ID": 266,
+ "CATEGORY_ID": 210,
+ "PURPOSE_ID": 62,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 30,
+ "MERIT": "三軸ビニロン繊維シートとポリマーセメントペーストを組み合わせた、無機系のはく落防止工法です。はく落を防止するとともに、コンクリートの耐久性向上を図ります。"
+}, {
+ "PRODUCT_ID": 269,
+ "CATEGORY_ID": 213,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 32,
+ "MERIT": "超高強度繊維補強コンクリート（UFC）の「ダクタル」で製作したブロック耐震壁です。人がもてる小さな部材で構成されており、静かな施工が可能なため、供用中の建物でも工事ができます。通風・採光も確保でき、意匠性に優れています。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 31,
+ "MERIT": "コンクリート構造物の体積変化に起因するひび割れを抑制する低添加型の石灰系膨張材です。RC巻立て工法などで用いられます。"
+}, {
+ "PRODUCT_ID": 93,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 31,
+ "MERIT": "コンクリート構造物の体積変化に起因するひび割れを抑制する石灰系膨張材です。RC巻立て工法などで用いられます。"
+}, {
+ "PRODUCT_ID": 61,
+ "CATEGORY_ID": 51,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 28,
+ "MERIT": "耐アルカリガラス繊維ネットで、素材がもつ高い引張剛性とコンクリートとの良好な付着性能により効率的に過大なひび割れを抑制します。RC巻立て工法などで用いられます。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 29,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。巻立て工法・ブレース・耐震壁の空隙充填材などとして適用できます。"
+}, {
+ "PRODUCT_ID": 267,
+ "CATEGORY_ID": 211,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 29,
+ "MERIT": "耐震補強・断面修復におけるモルタル施工の際の塗布型吸水防止材です。下地コンクリートへの密着性に優れ、強固な皮膜を形成します。耐水性・接着性に優れています。"
+}, {
+ "PRODUCT_ID": 268,
+ "CATEGORY_ID": 212,
+ "PURPOSE_ID": 61,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 36,
+ "MERIT": "アクリル系モルタル接着補強材です。透水性・吸水性の抑制に効果があります。"
+}, {
+ "PRODUCT_ID": 92,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 36,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "ソイルパッカを用い、従来にない大量吐出による浸透注入を可能とした恒久グラウト工法です。大きな削孔間隔と低圧注入固化により広範囲の浸透と急速施工が可能で、液状化対策工に適しています。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 15,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "コンクリート構造物の体積変化に起因するひび割れを抑制する低添加型の石灰系膨張材です。物流基地や工場等の土間・スラブの耐久性向上にも適しています。"
+}, {
+ "PRODUCT_ID": 273,
+ "CATEGORY_ID": 131,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "既存のファンデーションコートのトップとベースを一体化させた基礎仕上材です。１工程で施工が完了し工期を短縮することができます。"
+}, {
+ "PRODUCT_ID": 274,
+ "CATEGORY_ID": 74,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "注入速度や圧力を意図的に変化させる動的な操作によって、地盤領域全体により高密度に薬液を浸透させる新しい注入工法です。設計・施工・コストも従来工法と同じで、薬液も従来品を使用することができます。"
+}, {
+ "PRODUCT_ID": 274,
+ "CATEGORY_ID": 74,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 12,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "注入速度や圧力を意図的に変化させる動的な操作によって、地盤領域全体により高密度に薬液を浸透させる新しい注入工法です。設計・施工・コストも従来工法と同じで、薬液も従来品を使用することができます。"
+}, {
+ "PRODUCT_ID": 274,
+ "CATEGORY_ID": 74,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "注入速度や圧力を意図的に変化させる動的な操作によって、地盤領域全体により高密度に薬液を浸透させる新しい注入工法です。設計・施工・コストも従来工法と同じで、薬液も従来品を使用することができます。"
+}, {
+ "PRODUCT_ID": 274,
+ "CATEGORY_ID": 74,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "注入速度や圧力を意図的に変化させる動的な操作によって、地盤領域全体により高密度に薬液を浸透させる新しい注入工法です。設計・施工・コストも従来工法と同じで、薬液も従来品を使用することができます。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 5,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰石膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 276,
+ "CATEGORY_ID": 95,
+ "PURPOSE_ID": 32,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "粘性土から礫質度まで幅広い地盤に適用した気泡シールド工法用気泡剤です。疎水性で高発泡倍率で破泡しにくく、滞水層・高水圧層にも適用できます。"
+}, {
+ "PRODUCT_ID": 277,
+ "CATEGORY_ID": 95,
+ "PURPOSE_ID": 32,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水生環境に配慮した気泡シールド工法用気泡剤です。掘削土砂等を河川や海面埋め立てに再利用時に水生環境有害性を低減します。"
+}, {
+ "PRODUCT_ID": 282,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "小型杭打機を使用し、セメント系固化材スラリ－を独自形状の十字型供回り防止翼を有する掘削ヘッドを用いることで、撹拌不良を低減できます。また、施工直後に未固結改良体の比抵抗測定を導入し撹拌状況を確認することにより、高品質なソイルコラムを築造できます。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 282,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "小型杭打機を使用し、セメント系固化材スラリ－を独自形状の十字型供回り防止翼を有する掘削ヘッドを用いることで、撹拌不良を低減できます。また、施工直後に未固結改良体の比抵抗測定を導入し撹拌状況を確認することにより、高品質なソイルコラムを築造できます。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 282,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "小型杭打機を使用し、セメント系固化材スラリ－を独自形状の十字型供回り防止翼を有する掘削ヘッドを用いることで、撹拌不良を低減できます。また、施工直後に未固結改良体の比抵抗測定を導入し撹拌状況を確認することにより、高品質なソイルコラムを築造できます。（建設技術審査証明書　有）"
+}, {
+ "PRODUCT_ID": 283,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "小型杭打機を使用した機械攪拌工法です。高性能な専用の施工管理装置を用い、リアルタイムに施工時データを表示・記録し、確実な施工管理ができます。堀進長20ｍまで可能で、低重心で安定性が高く、かつ高トルクな施工機械にて撹拌混合を行います。"
+}, {
+ "PRODUCT_ID": 283,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "小型杭打機を使用した機械攪拌工法です。高性能な専用の施工管理装置を用い、リアルタイムに施工時データを表示・記録し、確実な施工管理ができます。堀進長20ｍまで可能で、低重心で安定性が高く、かつ高トルクな施工機械にて撹拌混合を行います。"
+}, {
+ "PRODUCT_ID": 283,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "小型杭打機を使用した機械攪拌工法です。高性能な専用の施工管理装置を用い、リアルタイムに施工時データを表示・記録し、確実な施工管理ができます。堀進長20ｍまで可能で、低重心で安定性が高く、かつ高トルクな施工機械にて撹拌混合を行います。"
+}, {
+ "PRODUCT_ID": 52,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 41,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。用途に応じて低発熱、超速硬、軽量、高強度、低収縮、水中不分離型等があります。鉄骨ベース下、免震装置や機械基礎の施工に適しています。"
+}, {
+ "PRODUCT_ID": 284,
+ "CATEGORY_ID": 43,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 23,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "重量骨材を使用した非金属系重量無収縮モルタルです。遮蔽要求部材に適用できます。"
+}, {
+ "PRODUCT_ID": 123,
+ "CATEGORY_ID": 92,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 20,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "現場打ち杭の余盛コンクリートの除去作業が効率的にでき、工期短縮が可能です。騒音、振動、粉塵の発生を抑制し、作業環境の改善が可能です。"
+}, {
+ "PRODUCT_ID": 123,
+ "CATEGORY_ID": 92,
+ "PURPOSE_ID": 30,
+ "CONTENT_ID": 21,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "現場打ち杭の余盛コンクリートの除去作業が効率的にでき、工期短縮が可能です。騒音、振動、粉塵の発生を抑制し、作業環境の改善が可能です。"
+}, {
+ "PRODUCT_ID": 270,
+ "CATEGORY_ID": 214,
+ "PURPOSE_ID": 54,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 33,
+ "MERIT": "カンタブを用いて、硬化コンクリート中の塩分量を簡単に測定できます。持ち運びに便利なコンパクトなキットとなっています。"
+}, {
+ "PRODUCT_ID": 282,
+ "CATEGORY_ID": 58,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 24,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "小型杭打機を使用し、セメント系固化材スラリ－を独自形状の十字型供回り防止翼を有する掘削ヘッドを用いることで、撹拌不良を低減できます。また、施工直後に未固結改良体の比抵抗測定を導入し撹拌状況を確認することにより、高品質なソイルコラムを築造できます。"
+}, {
+ "PRODUCT_ID": 270,
+ "CATEGORY_ID": 214,
+ "PURPOSE_ID": 54,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 33,
+ "MERIT": "カンタブを用いて、硬化コンクリート中の塩分量を簡単に測定できます。持ち運びに便利なコンパクトなキットとなっています。"
+}, {
+ "PRODUCT_ID": 45,
+ "CATEGORY_ID": 39,
+ "PURPOSE_ID": 3,
+ "CONTENT_ID": 16,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水との反応による膨張圧を利用した低公害型の破砕剤です。破砕効率がよく、２次破砕作業に伴う振動・騒音が低減できます。岩石・コンクリートの破砕などに適しています。"
+}, {
+ "PRODUCT_ID": 45,
+ "CATEGORY_ID": 39,
+ "PURPOSE_ID": 3,
+ "CONTENT_ID": 15,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水との反応による膨張圧を利用した低公害型の破砕剤です。破砕効率がよく、2次破砕作業に伴う振動・騒音が低減できます。岩石・コンクリートの破砕などに適しています。"
+}, {
+ "PRODUCT_ID": 45,
+ "CATEGORY_ID": 39,
+ "PURPOSE_ID": 3,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "水との反応による膨張圧を利用した低公害型の破砕剤です。破砕効率がよく、2次破砕作業に伴う振動・騒音が低減できます。防波堤・岩石の破砕などに適しています。"
+}, {
+ "PRODUCT_ID": 181,
+ "CATEGORY_ID": 136,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "鉄筋コンクリートの防錆効果を高める防錆材です。海水、潮風等の影響を受けるコンクリート構造物の鉄筋防錆に適しています。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 27,
+ "CONTENT_ID": 14,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰石膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 126,
+ "CATEGORY_ID": 216,
+ "PURPOSE_ID": 32,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "アクリル系の水溶性ポリマーを主成分としたエマルション型噴発防止剤です。シールド工事においてスクリューコンベアからの噴発時に土砂に混ぜると速やかに凝集作用をおこし、噴発を抑えます。"
+}, {
+ "PRODUCT_ID": 279,
+ "CATEGORY_ID": 218,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "石膏系の中性固化材です。有害物質や六価クロムなどを含まない環境にやさしい固化材です。"
+}, {
+ "PRODUCT_ID": 280,
+ "CATEGORY_ID": 219,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "連続バッチ式の処理のため混練精度が高く、所定品質のバラツキが少なく均一に改質します。コンベア・ポンプ等での連続的な泥土供給にも対応します。また、現場条件に最適の機種（処理能力）を選択できます。"
+}, {
+ "PRODUCT_ID": 53,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 22,
+ "SECTION_ID": 2,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。大規模施工に適したＱ-ＥＸ、30分硬化タイプのＱ-３０を用意しています。機械基礎やマンホール蓋受部の施工に適しています。"
+}, {
+ "PRODUCT_ID": 278,
+ "CATEGORY_ID": 217,
+ "PURPOSE_ID": 35,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "トンネルの安全性を高める耐火被覆パネルです。１２００℃の炉内でも構造体の表面温度を２００℃程度に抑制できます。衝撃に強く、排ガスによる変質や劣化に対しても耐性を発揮します。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 13,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰系膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 14,
+ "CATEGORY_ID": 10,
+ "PURPOSE_ID": 11,
+ "CONTENT_ID": 11,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "低添加型の石灰石膨張材です。少ない使用量で有効な膨張が得られ、ひび割れ低減を効果的に図ることができます。"
+}, {
+ "PRODUCT_ID": 274,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "注入速度や圧力を意図的に変化させる動的な操作によって、地盤領域全体により高密度に薬液を浸透させる新しい注入工法です。設計・施工・コストも従来工法と同じで、薬液も従来品を使用することができます。"
+}, {
+ "PRODUCT_ID": 274,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "注入速度や圧力を意図的に変化させる動的な操作によって、地盤領域全体により高密度に薬液を浸透させる新しい注入工法です。設計・施工・コストも従来工法と同じで、薬液も従来品を使用することができます。"
+}, {
+ "PRODUCT_ID": 274,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 33,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "注入速度や圧力を意図的に変化させる動的な操作によって、地盤領域全体により高密度に薬液を浸透させる新しい注入工法です。設計・施工・コストも従来工法と同じで、薬液も従来品を使用することができます。"
+}, {
+ "PRODUCT_ID": 274,
+ "CATEGORY_ID": 201,
+ "PURPOSE_ID": 60,
+ "CONTENT_ID": 34,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 20,
+ "MERIT": "注入速度や圧力を意図的に変化させる動的な操作によって、地盤領域全体により高密度に薬液を浸透させる新しい注入工法です。設計・施工・コストも従来工法と同じで、薬液も従来品を使用することができます。"
+}, {
+ "PRODUCT_ID": 244,
+ "CATEGORY_ID": 220,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 31,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 7,
+ "MERIT": "膨張材を使用した収縮抑制型の超速硬コンクリートです。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。都市部道路橋での夜間の低音施工や、大型機械で施工できない中小規模・狭幅員橋梁の床版の補強ができます。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 244,
+ "CATEGORY_ID": 220,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 30,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 7,
+ "MERIT": "膨張材を使用した収縮抑制型の超速硬コンクリートです。3時間で24N/mm<sup>2</sup>以上の圧縮強度を発現します。都市部道路橋での夜間の低音施工や、大型機械で施工できない中小規模・狭幅員橋梁の床版の補強ができます。専用バッチャジェットミキサ車により納入します。"
+}, {
+ "PRODUCT_ID": 53,
+ "CATEGORY_ID": 6,
+ "PURPOSE_ID": 5,
+ "CONTENT_ID": 10,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "流動性・充填性に優れたセメント系無収縮モルタルです。大規模施工に適したＱ-ＥＸ、30分硬化タイプのＱ-３０を用意しています。機械基礎やマンホール蓋受部の施工に適しています。"
+}, {
+ "PRODUCT_ID": 104,
+ "CATEGORY_ID": 221,
+ "PURPOSE_ID": 58,
+ "CONTENT_ID": 32,
+ "SECTION_ID": 3,
+ "CONSTRUCTION_METHOD_ID": 34,
+ "MERIT": "流動性・充填性に優れた水中不分離型のセメント系無収縮モルタルです。"
+}, {
+ "PRODUCT_ID": 281,
+ "CATEGORY_ID": 219,
+ "PURPOSE_ID": 9,
+ "CONTENT_ID": 17,
+ "SECTION_ID": 1,
+ "CONSTRUCTION_METHOD_ID": null,
+ "MERIT": "３軸型構造によるマルチクラッシャーです。新開発の３シャフトハンマーブレードを連動高速回転で原料を打撃、瞬時に破砕します。岩石・砂・コンクリートガラや脱水ケーキなど様々な形状・硬さ・含水分の原料を処理します。"
+}]

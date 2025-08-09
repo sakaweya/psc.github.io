@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+        <link rel="stylesheet" href="css/tccnav-theme.min.css" />
+        <link rel="stylesheet" href="css/jquery.mobile.icons-1.4.5.min.css" />
+        <link rel="stylesheet" href="css/jquery.mobile.structure-1.4.5.min.css" />
+        <link rel="stylesheet" href="css/tccnav-common.css" />
+        <link rel="stylesheet" href="css/productdetails.css" />
+        <link rel="stylesheet" href="css/photoswipe-4.0.5.css">
+        <link rel="stylesheet" href="css/default-skin/default-skin.css">
+        <script src="js/jquery-1.8.3.min.js"></script>
+        <script src="js/jquery.fittext-1.2.js"></script>
+        <script src="js/tccnav-theme.js"></script>
+        <script src="js/jquery.mobile-1.4.5.min.js"></script>
+        <script src="js/photoswipe-4.0.5.min.js"></script>
+        <script src="js/photoswipe-ui-default-4.0.5.min.js"></script>
+        <script src="js/linq.min.js"></script>
+        <script src="js/flipsnap-0.6.2.min.js"></script>
+        <script src="js/tccnav-common.js"></script>
+        <script src="js/productdetails.js"></script>
+        <title></title>
+    </head>
+    <body>
+        <div data-role="page" id="page">
+            <div data-role="panel" id="contentpanel" data-position="right" data-display="overlay">
+                <ul data-role="listview" data-theme="f">
+                    <li data-role="list-divider">メニュー</li>
+                    <li data-icon="home"><a href="#" class="load-link navtopmenu">トップ</a></li>
+                    <li data-icon="search"><a href="#" class="load-link navsearch">検索</a></li>
+                    <li data-icon="phone"><a href="#" class="load-link navcontact">お問い合せ先</a></li>
+                    <li data-icon="star"><a href="#" class="load-link navstar">お気に入り</a></li>
+                    <li data-icon="recycle"><a href="#" class="load-link navbook">コンテンツ更新</a></li>
+                    <li data-icon="info"><a href="#" class="load-link navhelp">本アプリ利用方法</a></li>
+                </ul>
+            </div>
+            <div id="header" data-role="header" data-position="fixed" data-fullscreen="false" data-tap-toggle="false">
+                <a href="#" class="ui-btn ui-btn-left ui-icon-carat-l ui-btn-icon-notext load-link navhistory"></a>
+                <h1 id="H1_HEADER"></h1>
+                <a id="a_contentpanel" href="#contentpanel" class="ui-btn ui-btn-right ui-icon-bars ui-btn-icon-notext"></a>
+            </div>
+            <div role="main" class="ui-content" id="main">
+                <p id="P_MENU_DETAIL" style="margin-top:0.3em;margin-bottom:0.3em;font-size:0.8em"></p>
+                <h2 id="H2_MENU_HEADER" style="margin-top:0.3em;margin-bottom:0.3em;"></h2>
+                
+                <div class="container my-gallery" style="text-align:center; background-color:transparent;padding-top:20px; ">
+                    <section id="product-images"></section>
+                </div>
+                <!--Photo Swipe-->
+                <div id="gallery" class="pswp" tabindex="-1" role="dialog" aria-hidden="true" data-role="none">
+                    <div class="pswp__bg"></div>
+
+                    <div class="pswp__scroll-wrap">
+
+                        <div class="pswp__container">
+                            <div class="pswp__item"></div>
+                            <div class="pswp__item"></div>
+                            <div class="pswp__item"></div>
+                        </div>
+
+                        <div class="pswp__ui pswp__ui--hidden">
+
+                            <div class="pswp__top-bar">
+
+                                <div class="pswp__counter"></div>
+
+                                <button class="pswp__button pswp__button--close" data-role="none" title="Close (Esc)"></button>
+
+                                <button class="pswp__button pswp__button--zoom" data-role="none" title="Zoom in/out"></button>
+
+                                <div class="pswp__preloader">
+                                    <div class="pswp__preloader__icn">
+                                        <div class="pswp__preloader__cut">
+                                            <div class="pswp__preloader__donut"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                                <div class="pswp__share-tooltip">
+                                </div>
+                            </div>
+
+                            <button class="pswp__button pswp__button--arrow--left" data-role="none" title="Previous (arrow left)"></button>
+                            <button class="pswp__button pswp__button--arrow--right" data-role="none" title="Next (arrow right)"></button>
+                            <div class="pswp__caption">
+                                <div class="pswp__caption__center">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="details">
+                </div>
+                <div id="div_favorite" style="display:none;">
+                    <label id="checkLable" for="favorite">お気に入り登録</label>
+                    <input type="checkbox" name="favorite" id="favorite">
+                </div>
+                <p id="registCount" style="display:none;"></p>
+            </div>
+            <div id="footer" data-role="footer" data-position="fixed" data-fullscreen="false" data-tap-toggle="false">
+                <div data-role="navbar">
+                    <ul>
+                        <li><a href="#" class="load-link navtopmenu" data-icon="home">トップ</a></li>
+                        <li><a href="#" class="load-link navsearch" data-icon="search">検索</a></li>
+                        <li><a href="#" class="load-link navcontact" data-icon="phone">お問い合せ先</a></li>
+                        <li><a href="#" class="load-link navstar" data-icon="star">お気に入り</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="pscnav.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+    </body>
+</html>
